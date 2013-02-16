@@ -1,0 +1,137 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Verdana, Geneva, 'DejaVu Sans', sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+body div#wrapper {
+  margin: 25px;
+  width: 960px;
+}
+body div#wrapper #radio-yes {
+  margin-top: 7px;
+  margin-bottom: 17px;
+}
+body div#wrapper form {
+  text-align: right;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 380px;
+  padding: 15px;
+  background: #68d1ff;
+  /* Old browsers */
+
+  background: -moz-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* FF3.6+ */
+
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #68d1ff), color-stop(100%, #8cfffb));
+  /* Chrome,Safari4+ */
+
+  background: -webkit-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: -o-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* Opera 11.10+ */
+
+  background: -ms-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* IE10+ */
+
+  background: linear-gradient(to bottom, #68d1ff 0%, #8cfffb 100%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#68d1ff', endColorstr='#8cfffb', GradientType=0);
+  /* IE6-9 */
+
+}
+body div#wrapper form button,
+body div#wrapper form input[type=reset] {
+  color: #333;
+  background: #36c2ff;
+  /* Old browsers */
+
+  background: -moz-linear-gradient(top, #36c2ff 0%, #8bfefb 100%);
+  /* FF3.6+ */
+
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #36c2ff), color-stop(100%, #8bfefb));
+  /* Chrome,Safari4+ */
+
+  background: -webkit-linear-gradient(top, #36c2ff 0%, #8bfefb 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: -o-linear-gradient(top, #36c2ff 0%, #8bfefb 100%);
+  /* Opera 11.10+ */
+
+  background: -ms-linear-gradient(top, #36c2ff 0%, #8bfefb 100%);
+  /* IE10+ */
+
+  background: linear-gradient(to bottom, #36c2ff 0%, #8bfefb 100%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#36c2ff', endColorstr='#8bfefb', GradientType=0);
+  /* IE6-9 */
+
+  padding: 5px 15px;
+  font-size: 19px;
+  border: none;
+  border-bottom: 1px solid black;
+  border-radius: 5px;
+  margin-top: 1px;
+}
+body div#wrapper form button:hover,
+body div#wrapper form input[type=reset]:hover {
+  background: #9be1ff;
+}
+body div#wrapper form fieldset {
+  border: 3px solid #333;
+  border-radius: 5px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  text-align: right;
+}
+body div#wrapper form fieldset legend {
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 21px;
+  text-align: right;
+  font-style: italic;
+}
+body div#wrapper form fieldset input {
+  background: #68d1ff;
+  /* Old browsers */
+
+  background: -moz-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* FF3.6+ */
+
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #68d1ff), color-stop(100%, #8cfffb));
+  /* Chrome,Safari4+ */
+
+  background: -webkit-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  background: -o-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* Opera 11.10+ */
+
+  background: -ms-linear-gradient(top, #68d1ff 0%, #8cfffb 100%);
+  /* IE10+ */
+
+  background: linear-gradient(to bottom, #68d1ff 0%, #8cfffb 100%);
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#68d1ff', endColorstr='#8cfffb', GradientType=0);
+  /* IE6-9 */
+
+  margin-top: 1px;
+  border: 1px solid #008fce;
+  width: 164px;
+  height: 26px;
+  padding-left: 15px;
+  border-radius: 5px;
+}
+body div#wrapper form fieldset #tb-age {
+  padding-left: 5px;
+  width: 40px;
+}

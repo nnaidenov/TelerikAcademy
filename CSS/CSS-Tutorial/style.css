@@ -1,0 +1,152 @@
+/* 
+    Document   : style
+    Created on : 2013-1-21, 14:50:38
+    Author     : N.Naidenov
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body { 
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+a{
+    font-size: 15px;
+}
+
+nav{
+    float: left;
+    width: 17%;
+    min-width: 150px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul .title{
+    color: darkred;
+    font-weight: bold;
+}
+
+section{
+    background-color: white;
+    width: 66%;
+    border: 2px solid #c4c4c4;
+    margin-left: 17%;
+    min-width: 420px;
+}
+
+section > header{
+    border-bottom: 2px solid #9f9f9f;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+section button{
+    background-color: white;
+    border-radius: 0;
+    border: 1px solid black;
+    line-height: 20px;    
+    font-size: 13px;
+    width: 100px;
+}
+
+section button .left{
+    font-size: 20px;
+    padding: 0 18px 0 0;
+}
+
+section button .right{
+    font-size: 20px;
+    padding: 0 0 0 38px;
+}
+
+section section{
+    width: 99%;
+    margin: auto;
+    border: none;
+}
+
+section section article header h1{
+    height: 21px;
+    width: 100%;
+    margin: auto;
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+    background-color: #808080;
+}
+
+.content{
+    margin: 5px;
+}
+
+.content img{
+    float: left;
+    margin: 0 5px 5px 0;
+}
+
+.content p{
+    margin: 2px;
+    font-weight: bold;
+}
+
+.content a{
+    text-decoration: underline;
+    color: darkred;
+}
+
+aside{
+    float: right;
+    width: 16.5%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+aside section{
+    border: 1px solid #808080;
+    width: 100%;
+    min-width: 150px;
+    margin: 0;
+    padding: 0;
+}
+
+aside section a{
+    text-decoration: underline;
+    color: darkred;
+}
+
+aside section header{
+    margin: 0;
+    padding: 0;
+    height: 21px;
+    color: white;
+    font-size: 15px;
+    background-color: #808080;
+}
+
+aside section header h1{
+    margin: 0;
+    padding: 0;
+    height: 21px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+aside section img{
+    display: block;
+    margin: auto;
+}
+
+footer{
+    border-bottom: 2px solid #9f9f9f;
+    border-top: 2px solid #9f9f9f;
+    margin: 7px 0 25px 0;
+    padding: 5px 0;
+}

@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  margin: auto; }
+
+h1 {
+  margin-left: 50px; }
+
+ul li {
+  list-style-type: none;
+  display: inline; }
+
+.thumbs {
+  height: 130px;
+  border: 2px solid white;
+  margin-left: 5px; }
+
+#firstbig, #secondbig, #thirdbig, #fourthbig, #sixthbig, #fifthbig {
+  display: none; }
+
+input {
+  display: none; }
+  input:checked + label #firstbig {
+    display: block; }
+  input:checked + label #secondbig {
+    display: block; }
+  input:checked + label #thirdbig {
+    display: block; }
+  input:checked + label #fourthbig {
+    display: block; }
+  input:checked + label #fifthbig {
+    display: block; }
+  input:checked + label #sixthbig {
+    display: block; }
+  input:checked + label img {
+    border: 1px solid white;
+    margin-left: 50px;
+    max-height: 350px;
+    margin-bottom: 50px; }
+

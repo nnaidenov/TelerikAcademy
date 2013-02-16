@@ -1,0 +1,109 @@
+/* 
+    Document   : style
+    Created on : 2013-1-22, 22:49:08
+    Author     : N.Naidenov
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    margin: 50px;
+}
+
+section{
+    background-color: #1e3741;
+    margin: 0;
+    padding: 0;
+    height: 320px;
+    width: 700px;
+    border-radius: 5px;
+}
+
+section nav ul{
+    list-style-type: none;
+    margin:  0 0 0 4px;
+    padding: 4px 0 0 0;
+}
+
+section nav ul li{
+    display: inline-block;
+    height: 35px;
+    background-color: #4b5f67;
+    border-right: 2px solid #1e3741;
+    font-size: 14px;
+    text-align: center;
+    line-height: 35px;
+    color: #7c9ca5;
+    margin: -2px;
+    padding: 0 10px;
+}
+
+section nav li:hover{
+    background-color: #1e3741;
+    color: white;
+}
+
+section nav li a{
+    text-decoration: none;
+    color: #7c9ca5;
+}
+
+section nav li:hover a{
+    color: white;
+}
+
+.selected{
+    background-color: #1e3741;
+    border-right: 2px solid #1e3741;
+    color: white;
+}
+
+.selected a{
+    color: white;
+}
+
+section section nav{
+    margin-top: 10px;
+    float: left;
+}
+
+section section nav ul li{
+        background-color: #1e3741;
+    display: block;
+    width: 270px;
+    height: auto;
+    border-bottom: 1px solid #546870;
+    border-right: none;
+    font-size: 13px;
+    text-align: left;
+    line-height: 20px;
+    color: #7c9ca5;
+    margin: 0;
+    padding-left: 5px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.selectedNews{
+    background-color: #00968c;
+}
+
+.selectedNews a{
+    color: white;
+}
+
+section section nav li:hover{
+    background-color: #00968c;
+    color: white;
+}
+
+section section nav li:hover a{
+    color: white;
+}
+
+img{
+    margin-top: 12px;
+}
+
+li:nth-last-child(1){
+    border: none;
+}

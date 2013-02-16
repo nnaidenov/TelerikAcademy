@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\Print16BitNumber\bin\Debug\Print16BitNumber.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\Print16BitNumber\bin\Debug\Print16BitNumber.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\Print16BitNumber\bin\Debug\Print16BitNumber.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\Print16BitNumber\obj\Debug\Print16BitNumber.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\Print16BitNumber\obj\Debug\Print16BitNumber.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\Print16BitNumber\obj\Debug\Print16BitNumber.csprojResolveAssemblyReference.cache

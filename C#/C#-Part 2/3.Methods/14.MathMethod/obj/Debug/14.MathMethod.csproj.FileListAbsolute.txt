@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\14.MathMethod\bin\Debug\14.MathMethod.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\14.MathMethod\bin\Debug\14.MathMethod.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\14.MathMethod\bin\Debug\14.MathMethod.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\14.MathMethod\obj\Debug\14.MathMethod.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\14.MathMethod\obj\Debug\14.MathMethod.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\14.MathMethod\obj\Debug\14.MathMethod.csprojResolveAssemblyReference.cache

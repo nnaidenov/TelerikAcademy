@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\3.ReadTextFileInsertsLineNumbersWrittenOtherFile\bin\Debug\3.ReadTextFileInsertsLineNumbersWrittenOtherFile.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\3.ReadTextFileInsertsLineNumbersWrittenOtherFile\bin\Debug\3.ReadTextFileInsertsLineNumbersWrittenOtherFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\3.ReadTextFileInsertsLineNumbersWrittenOtherFile\bin\Debug\3.ReadTextFileInsertsLineNumbersWrittenOtherFile.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\3.ReadTextFileInsertsLineNumbersWrittenOtherFile\obj\Debug\3.ReadTextFileInsertsLineNumbersWrittenOtherFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\3.ReadTextFileInsertsLineNumbersWrittenOtherFile\obj\Debug\3.ReadTextFileInsertsLineNumbersWrittenOtherFile.pdb

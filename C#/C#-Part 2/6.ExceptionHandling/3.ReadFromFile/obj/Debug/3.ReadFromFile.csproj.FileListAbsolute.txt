@@ -1,0 +1,9 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.ExceptionHandling\HW\ExceptionsHandling\3.ReadFromFile\bin\Debug\3.ReadFromFile.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.ExceptionHandling\HW\ExceptionsHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.ExceptionHandling\HW\ExceptionsHandling\3.ReadFromFile\obj\Debug\3.ReadFromFile.pdb

@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\11.DeleteSpecialWord\bin\Debug\11.DeleteSpecialWord.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\11.DeleteSpecialWord\bin\Debug\11.DeleteSpecialWord.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\11.DeleteSpecialWord\bin\Debug\11.DeleteSpecialWord.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\11.DeleteSpecialWord\obj\Debug\11.DeleteSpecialWord.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\11.DeleteSpecialWord\obj\Debug\11.DeleteSpecialWord.pdb

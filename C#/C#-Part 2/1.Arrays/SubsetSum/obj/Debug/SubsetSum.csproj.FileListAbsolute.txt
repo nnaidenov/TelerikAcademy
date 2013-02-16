@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SubsetSum\obj\Debug\SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SubsetSum\obj\Debug\SubsetSum.pdb

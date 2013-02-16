@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\4.CountSubstringContainedInText\bin\Debug\4.CountSubstringContainedInText.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\4.CountSubstringContainedInText\obj\Debug\4.CountSubstringContainedInText.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\4.CountSubstringContainedInText\bin\Debug\4.CountSubstringContainedInText.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\4.CountSubstringContainedInText\bin\Debug\4.CountSubstringContainedInText.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\4.CountSubstringContainedInText\obj\Debug\4.CountSubstringContainedInText.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\4.CountSubstringContainedInText\obj\Debug\4.CountSubstringContainedInText.pdb

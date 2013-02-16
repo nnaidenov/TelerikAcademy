@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\2.ConcatenateTwoFiles\bin\Debug\2.ConcatenateTwoFiles.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\2.ConcatenateTwoFiles\bin\Debug\2.ConcatenateTwoFiles.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\2.ConcatenateTwoFiles\bin\Debug\2.ConcatenateTwoFiles.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\2.ConcatenateTwoFiles\obj\Debug\2.ConcatenateTwoFiles.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\2.ConcatenateTwoFiles\obj\Debug\2.ConcatenateTwoFiles.pdb

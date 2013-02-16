@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintIndexOfLetters\bin\Debug\PrintIndexOfLetters.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintIndexOfLetters\bin\Debug\PrintIndexOfLetters.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintIndexOfLetters\bin\Debug\PrintIndexOfLetters.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintIndexOfLetters\obj\Debug\PrintIndexOfLetters.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintIndexOfLetters\obj\Debug\PrintIndexOfLetters.pdb

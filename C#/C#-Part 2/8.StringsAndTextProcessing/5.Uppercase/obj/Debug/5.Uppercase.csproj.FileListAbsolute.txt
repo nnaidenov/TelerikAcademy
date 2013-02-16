@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\5.Uppercase\bin\Debug\5.Uppercase.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\5.Uppercase\bin\Debug\5.Uppercase.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\5.Uppercase\bin\Debug\5.Uppercase.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\5.Uppercase\obj\Debug\5.Uppercase.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\5.Uppercase\obj\Debug\5.Uppercase.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\5.Uppercase\obj\Debug\5.Uppercase.pdb

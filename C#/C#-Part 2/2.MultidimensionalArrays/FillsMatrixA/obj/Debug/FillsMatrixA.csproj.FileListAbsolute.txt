@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixA\bin\Debug\FillsMatrixA.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixA\bin\Debug\FillsMatrixA.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixA\bin\Debug\FillsMatrixA.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixA\obj\Debug\FillsMatrixA.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixA\obj\Debug\FillsMatrixA.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixA\obj\Debug\FillsMatrixA.pdb

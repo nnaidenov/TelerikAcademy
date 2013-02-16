@@ -1,0 +1,9 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\bin\Debug\integerMultipliedFive.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\bin\Debug\integerMultipliedFive.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\bin\Debug\integerMultipliedFive.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\obj\Debug\integerMultipliedFive.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\obj\Debug\integerMultipliedFive.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\obj\Debug\integerMultipliedFive.pdb
+C:\Users\werew\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\bin\Debug\integerMultipliedFive.exe.config
+C:\Users\werew\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\obj\Debug\integerMultipliedFive.exe
+C:\Users\werew\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\integerMultipliedFive\obj\Debug\integerMultipliedFive.pdb

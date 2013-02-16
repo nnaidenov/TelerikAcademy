@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\10.ExtractTextWithoutTags\bin\Debug\10.ExtractTextWithoutTags.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\10.ExtractTextWithoutTags\bin\Debug\10.ExtractTextWithoutTags.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\10.ExtractTextWithoutTags\bin\Debug\10.ExtractTextWithoutTags.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\10.ExtractTextWithoutTags\obj\Debug\10.ExtractTextWithoutTags.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\10.ExtractTextWithoutTags\obj\Debug\10.ExtractTextWithoutTags.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\10.ExtractTextWithoutTags\obj\Debug\10.ExtractTextWithoutTags.pdb

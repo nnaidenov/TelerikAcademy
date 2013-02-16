@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\4.ComparesTwoTextFiles\bin\Debug\4.ComparesTwoTextFiles.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\4.ComparesTwoTextFiles\bin\Debug\4.ComparesTwoTextFiles.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\4.ComparesTwoTextFiles\bin\Debug\4.ComparesTwoTextFiles.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\4.ComparesTwoTextFiles\obj\Debug\4.ComparesTwoTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\4.ComparesTwoTextFiles\obj\Debug\4.ComparesTwoTextFiles.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\4.ComparesTwoTextFiles\obj\Debug\4.ComparesTwoTextFiles.pdb

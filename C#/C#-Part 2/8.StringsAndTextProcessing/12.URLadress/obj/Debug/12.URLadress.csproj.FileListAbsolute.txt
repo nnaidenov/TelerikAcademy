@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\12.URLadress\bin\Debug\12.URLadress.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\12.URLadress\bin\Debug\12.URLadress.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\12.URLadress\bin\Debug\12.URLadress.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\12.URLadress\obj\Debug\12.URLadress.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\12.URLadress\obj\Debug\12.URLadress.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\12.URLadress\obj\Debug\12.URLadress.pdb

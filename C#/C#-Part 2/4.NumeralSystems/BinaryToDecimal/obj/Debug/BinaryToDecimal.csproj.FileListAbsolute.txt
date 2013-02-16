@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache

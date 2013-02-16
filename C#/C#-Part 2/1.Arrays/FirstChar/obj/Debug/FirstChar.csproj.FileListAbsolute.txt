@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\FirstChar\bin\Debug\FirstChar.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\FirstChar\bin\Debug\FirstChar.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\FirstChar\bin\Debug\FirstChar.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\FirstChar\obj\Debug\FirstChar.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\FirstChar\obj\Debug\FirstChar.pdb

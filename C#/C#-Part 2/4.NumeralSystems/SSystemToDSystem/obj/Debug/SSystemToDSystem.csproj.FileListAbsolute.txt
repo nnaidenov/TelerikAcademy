@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\SSystemToDSystem\bin\Debug\SSystemToDSystem.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\SSystemToDSystem\bin\Debug\SSystemToDSystem.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\SSystemToDSystem\bin\Debug\SSystemToDSystem.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\SSystemToDSystem\obj\Debug\SSystemToDSystem.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\SSystemToDSystem\obj\Debug\SSystemToDSystem.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\SSystemToDSystem\obj\Debug\SSystemToDSystem.pdb

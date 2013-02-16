@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\SequencesInTheMatrix\bin\Debug\SequencesInTheMatrix.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\SequencesInTheMatrix\bin\Debug\SequencesInTheMatrix.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\SequencesInTheMatrix\bin\Debug\SequencesInTheMatrix.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\SequencesInTheMatrix\obj\Debug\SequencesInTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\SequencesInTheMatrix\obj\Debug\SequencesInTheMatrix.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\SequencesInTheMatrix\obj\Debug\SequencesInTheMatrix.pdb

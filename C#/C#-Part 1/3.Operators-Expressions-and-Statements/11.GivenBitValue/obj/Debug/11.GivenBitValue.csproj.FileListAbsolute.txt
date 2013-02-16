@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\3.OperatorsExpressionsAndStatements\homework\OperatorsExpressions\11.GivenBitValue\bin\Debug\11.GivenBitValue.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\3.OperatorsExpressionsAndStatements\homework\OperatorsExpressions\11.GivenBitValue\obj\Debug\11.GivenBitValue.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\3.OperatorsExpressionsAndStatements\homework\OperatorsExpressions\11.GivenBitValue\bin\Debug\11.GivenBitValue.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\3.OperatorsExpressionsAndStatements\homework\OperatorsExpressions\11.GivenBitValue\bin\Debug\11.GivenBitValue.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\3.OperatorsExpressionsAndStatements\homework\OperatorsExpressions\11.GivenBitValue\obj\Debug\11.GivenBitValue.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\3.OperatorsExpressionsAndStatements\homework\OperatorsExpressions\11.GivenBitValue\obj\Debug\11.GivenBitValue.pdb

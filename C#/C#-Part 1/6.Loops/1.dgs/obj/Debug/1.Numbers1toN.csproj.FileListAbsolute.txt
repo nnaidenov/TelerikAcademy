@@ -1,0 +1,10 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\1.dgs\bin\Debug\1.dgs.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\1.dgs\bin\Debug\1.dgs.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\1.dgs\bin\Debug\1.dgs.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\1.dgs\obj\Debug\1.Numbers1toN.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\1.dgs\obj\Debug\1.dgs.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\1.dgs\obj\Debug\1.dgs.pdb
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\6.Loops\HW_werew_Cikli_2012-11-16_00-55\Loops\1.dgs\bin\Debug\1.dgs.exe.config
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\6.Loops\HW_werew_Cikli_2012-11-16_00-55\Loops\1.dgs\obj\Debug\1.dgs.exe
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\6.Loops\HW_werew_Cikli_2012-11-16_00-55\Loops\1.dgs\obj\Debug\1.dgs.pdb
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\6.Loops\HW_werew_Cikli_2012-11-16_00-55\Loops\1.dgs\bin\Debug\1.Numbers1toN.exe.config

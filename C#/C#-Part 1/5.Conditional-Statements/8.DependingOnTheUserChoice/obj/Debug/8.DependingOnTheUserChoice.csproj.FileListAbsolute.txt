@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\8.DependingOnTheUserChoice\bin\Debug\8.DependingOnTheUserChoice.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\8.DependingOnTheUserChoice\bin\Debug\8.DependingOnTheUserChoice.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\8.DependingOnTheUserChoice\bin\Debug\8.DependingOnTheUserChoice.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\8.DependingOnTheUserChoice\obj\Debug\8.DependingOnTheUserChoice.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\8.DependingOnTheUserChoice\obj\Debug\8.DependingOnTheUserChoice.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\8.DependingOnTheUserChoice\obj\Debug\8.DependingOnTheUserChoice.pdb

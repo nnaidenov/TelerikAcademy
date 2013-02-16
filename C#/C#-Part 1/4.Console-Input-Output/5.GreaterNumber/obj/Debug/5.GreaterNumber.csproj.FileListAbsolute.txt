@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\5.GreaterNumber\bin\Debug\5.GreaterNumber.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\5.GreaterNumber\obj\Debug\5.GreaterNumber.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\5.GreaterNumber\obj\Debug\5.GreaterNumber.pdb

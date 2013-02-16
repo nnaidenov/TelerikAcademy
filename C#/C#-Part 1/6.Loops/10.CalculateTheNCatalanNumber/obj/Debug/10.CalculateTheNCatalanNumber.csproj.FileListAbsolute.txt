@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\10.CalculateTheNCatalanNumber\bin\Debug\10.CalculateTheNCatalanNumber.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\10.CalculateTheNCatalanNumber\bin\Debug\10.CalculateTheNCatalanNumber.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\10.CalculateTheNCatalanNumber\bin\Debug\10.CalculateTheNCatalanNumber.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\10.CalculateTheNCatalanNumber\obj\Debug\10.CalculateTheNCatalanNumber.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\10.CalculateTheNCatalanNumber\obj\Debug\10.CalculateTheNCatalanNumber.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\10.CalculateTheNCatalanNumber\obj\Debug\10.CalculateTheNCatalanNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\4.ThreeNumbersOrderDesc\bin\Debug\4.ThreeNumbersOrderDesc.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\4.ThreeNumbersOrderDesc\bin\Debug\4.ThreeNumbersOrderDesc.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\4.ThreeNumbersOrderDesc\bin\Debug\4.ThreeNumbersOrderDesc.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\4.ThreeNumbersOrderDesc\obj\Debug\4.ThreeNumbersOrderDesc.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\4.ThreeNumbersOrderDesc\obj\Debug\4.ThreeNumbersOrderDesc.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\4.ThreeNumbersOrderDesc\obj\Debug\4.ThreeNumbersOrderDesc.csprojResolveAssemblyReference.cache

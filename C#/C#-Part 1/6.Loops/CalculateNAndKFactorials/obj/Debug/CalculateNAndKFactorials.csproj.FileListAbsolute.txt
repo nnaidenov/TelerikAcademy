@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\CalculateNAndKFactorials\bin\Debug\CalculateNAndKFactorials.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\CalculateNAndKFactorials\bin\Debug\CalculateNAndKFactorials.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\CalculateNAndKFactorials\bin\Debug\CalculateNAndKFactorials.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\CalculateNAndKFactorials\obj\Debug\CalculateNAndKFactorials.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\CalculateNAndKFactorials\obj\Debug\CalculateNAndKFactorials.pdb

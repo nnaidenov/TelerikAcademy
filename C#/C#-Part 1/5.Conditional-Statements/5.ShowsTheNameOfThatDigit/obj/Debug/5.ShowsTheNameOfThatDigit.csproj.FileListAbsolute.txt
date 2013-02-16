@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\5.ShowsTheNameOfThatDigit\bin\Debug\5.ShowsTheNameOfThatDigit.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\5.ShowsTheNameOfThatDigit\obj\Debug\5.ShowsTheNameOfThatDigit.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\5.ShowsTheNameOfThatDigit\bin\Debug\5.ShowsTheNameOfThatDigit.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\5.ShowsTheNameOfThatDigit\bin\Debug\5.ShowsTheNameOfThatDigit.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\5.ShowsTheNameOfThatDigit\obj\Debug\5.ShowsTheNameOfThatDigit.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\5.ShowsTheNameOfThatDigit\obj\Debug\5.ShowsTheNameOfThatDigit.pdb

@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\7.GreatestOfGiven5Variables\bin\Debug\7.GreatestOfGiven5Variables.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\7.GreatestOfGiven5Variables\bin\Debug\7.GreatestOfGiven5Variables.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\7.GreatestOfGiven5Variables\bin\Debug\7.GreatestOfGiven5Variables.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\7.GreatestOfGiven5Variables\obj\Debug\7.GreatestOfGiven5Variables.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\7.GreatestOfGiven5Variables\obj\Debug\7.GreatestOfGiven5Variables.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\7.GreatestOfGiven5Variables\obj\Debug\7.GreatestOfGiven5Variables.pdb

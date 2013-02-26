@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\GenericList\bin\Debug\GenericList.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\GenericList\bin\Debug\GenericList.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\GenericList\obj\Debug\GenericList.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\GenericList\obj\Debug\GenericList.pdb

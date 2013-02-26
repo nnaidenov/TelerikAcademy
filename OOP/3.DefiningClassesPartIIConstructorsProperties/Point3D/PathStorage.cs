@@ -11,7 +11,7 @@ namespace Point3D
     {
         public static void SavePaths(Path path)
         {
-            string pathWrite = @"../../Paths.txt";
+            string pathWrite = "Paths.txt";
             StreamWriter writer = new StreamWriter(pathWrite);
 
             using (writer)
@@ -28,7 +28,7 @@ namespace Point3D
         {
             Path readPaths = new Path();
             List<Path> pathsLoaded = new List<Path>();
-            string pathRead = @"../../Paths.txt";
+            string pathRead = "Paths.txt";
             StreamReader reader = new StreamReader(pathRead);
 
             using (reader)
@@ -42,8 +42,9 @@ namespace Point3D
                     point.PositionY = int.Parse(points[1]);
                     point.PositionZ = int.Parse(points[2]);
                     readPaths.AddPoint(point);
+                    line = reader.ReadLine();
                 }
-                line = reader.ReadLine();
+                
             }
             return pathsLoaded;
         }

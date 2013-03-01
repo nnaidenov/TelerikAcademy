@@ -175,7 +175,6 @@ namespace MyMatrix
         //END *
 
         //True
-
         public static bool operator true(Matrix<T> matrix)
         {
             for (int i = 0; i < matrix.rows; i++)
@@ -191,6 +190,23 @@ namespace MyMatrix
             return true;
         }
         //END TRUE
+
+        //False
+        public static bool operator false(Matrix<T> matrix)
+        {
+            for (int i = 0; i < matrix.rows; i++)
+            {
+                for (int j = 0; j < matrix.cols; j++)
+                {
+                    if ((dynamic)matrix[i, j] == 0)
+                    {
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+        //END FALSE
         //IMPLEMENT THE OPERATORS 
     }
 }

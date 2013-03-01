@@ -65,7 +65,7 @@ namespace MyMatrix
             }
             Console.WriteLine();
 
-            if (newMat)
+            if (myMatrix2)
             {
                 Console.WriteLine("True");
             }

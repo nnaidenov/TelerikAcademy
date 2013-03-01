@@ -44,6 +44,11 @@ namespace GenericList
         //End Indexer
 
         //Constuctor
+        public GenericList()
+        {
+            array = new T[capacity];
+        }
+
         public GenericList(int capacity)
         {
             this.capacity = capacity;

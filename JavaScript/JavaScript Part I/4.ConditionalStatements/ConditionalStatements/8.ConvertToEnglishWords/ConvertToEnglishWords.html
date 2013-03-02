@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ConvertToEnglishWords</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="number">number: </label>
+	<input type="text" id="number" />
+
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">In English number is:</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onCheckNumbersButtonClick() {
+	        var digits = ["zero ", "one ", "two ", "three ", "four ", "five ", "six ", "seven ", "eight ", "nine "];
+	        var teen = ["ten ", "eleven ", "twelve ", "thirdtheen ", "fourtheen ", "fiftheen ", "sixtheen ", "seventheen ", "eightheen ", "ninetheen "];
+	        var dec = [" ", " ", "twenty ", "thirty ", "forty ", "fifty ", "sixty ", "seventy ", "eighty ", "ninety "];
+
+	        var number = jsConsole.readFloat("#number");
+	        var one = number % 10;
+	        var ten = parseInt(number / 10) % 10;
+	        var hundred = parseInt(number / 100) % 10;
+	        jsConsole.writeLine(one);
+	        jsConsole.writeLine(ten);
+	        jsConsole.writeLine(hundred);
+	        jsConsole.writeLine();
+
+	        if (number < 10) {
+	            jsConsole.writeLine(digits[one]);
+	        }
+	        else if (number < 20) {
+	            jsConsole.writeLine(teen[one]);
+	        }
+	        else if (number < 100) {
+
+	            if (one == 0) {
+	                jsConsole.writeLine(dec[ten]);
+	            }
+	            else {
+	                jsConsole.writeLine(dec[ten] + digits[one]);
+	            }
+	        }
+	        else if (number < 1000) {
+	            if (one == 0 && ten == 0) {
+	                jsConsole.writeLine(digits[hundred] + "hundred  ");
+	            }
+	            else if (one == 0) {
+	                jsConsole.writeLine(digits[hundred] + "hundred  " + dec[ten]);
+	            }
+	            else if (ten == 0) {
+	                jsConsole.writeLine(digits[hundred] + "hundred  " + "and " + digits[one]);
+	            }
+	            else if (ten == 1) {
+	                jsConsole.writeLine(digits[hundred] + "hundred  " + "and " + teen[one]);
+	            }
+	            else {
+	                jsConsole.writeLine(digits[hundred] + "hundred  " + dec[ten] + digits[one]);
+	            }
+	        }
+	    }
+	</script>
+</body>
+</html>

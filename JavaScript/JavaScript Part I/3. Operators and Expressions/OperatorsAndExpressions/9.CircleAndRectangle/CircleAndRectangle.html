@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CircleAndRectangle</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="x">x: </label>
+	<input type="text" id="x" />
+    <label for="y">y: </label>
+	<input type="text" id="y" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">Point in Circle and Reactangle?</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onCheckNumbersButtonClick() {
+
+	        var x = jsConsole.readFloat("#x");
+	        var y = jsConsole.readFloat("#y");
+
+	        var kx = 1.1;
+	        var ky = 3;
+
+	        var ax = 0;
+	        var ay = -1;
+	        var dx = 0;
+	        var dy = 1;
+
+	        var bx = ax + 6;
+	        var by = ay;       
+	        var cx = dx + 6;
+	        var cy = dy;
+
+	        var kr = ky - kx;
+	        var aInCircle = (kr * kr) >= (x * x) + (y * y);
+	        var aInAtoBx = x >= ax && x <= bx;
+	        var aInDtoCx = x >= dx && x <= cx;
+	        var aInAtoBy = y >= ay && y >= by;
+	        var aInDtoCy = y <= dy && y <= cy;
+
+	        if (aInCircle == true) {
+	            if (aInAtoBx && aInDtoCx && aInAtoBy && aInDtoCy) {
+	                jsConsole.writeLine("Условието не е изпълнено!");
+	            }
+	            else {
+	                jsConsole.writeLine("Условието е изпълнено!");
+	            }
+	        }
+	        else {
+	            jsConsole.writeLine("Условието не е изпълнено!");
+	        }
+	    }
+	</script>
+</body>
+</html>

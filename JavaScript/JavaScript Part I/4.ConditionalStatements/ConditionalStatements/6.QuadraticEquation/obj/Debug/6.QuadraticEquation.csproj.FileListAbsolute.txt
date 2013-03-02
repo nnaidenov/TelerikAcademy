@@ -1,0 +1,4 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\6.QuadraticEquation\bin\6.QuadraticEquation.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\6.QuadraticEquation\bin\6.QuadraticEquation.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

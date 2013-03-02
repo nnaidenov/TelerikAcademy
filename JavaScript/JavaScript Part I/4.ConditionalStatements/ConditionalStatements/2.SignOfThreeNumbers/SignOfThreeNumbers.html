@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SignOfThreeNumbers</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="a">a: </label>
+	<input type="text" id="a" />
+    <label for="b">b: </label>
+	<input type="text" id="b" />
+    <label for="c">c: </label>
+	<input type="text" id="c" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">The sign is...</a>
+	<div id="console">
+	</div>
+
+	<script src="scripts/js-console.js">	  
+	</script>
+
+	<script>
+	    function onCheckNumbersButtonClick() {
+	        var a = jsConsole.readFloat("#a");
+	        var b = jsConsole.readFloat("#b");
+	        var c = jsConsole.readFloat("#c");
+
+	        if (a > 0 && b > 0 && c > 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е +");
+	        }
+	        else if (a > 0 && b < 0 && c < 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е +");
+	        }
+	        else if (a < 0 && b > 0 && c < 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е +");
+	        }
+	        else if (a < 0 && b < 0 && c > 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е +");
+	        }
+	        else if (a > 0 && b > 0 && c < 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е -");
+	        }
+
+	        else if (a > 0 && b < 0 && c > 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е -");
+	        }
+	        else if (a < 0 && b > 0 && c > 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е -");
+	        }
+
+	        else if (a < 0 && b < 0 && c < 0)
+	        {
+	            jsConsole.writeLine("Знакът след умножение ще е -");
+	        }   
+	    }
+	</script>
+</body>
+</html>

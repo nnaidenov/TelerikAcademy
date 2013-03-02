@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>PrimeNumber</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="number">number: </label>
+	<input type="text" id="number" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">Prime Number?</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onCheckNumbersButtonClick() {
+
+	        var number = jsConsole.readFloat("#number");
+	        var checker = 0;
+
+	        if (number > 0 && number < 100) {
+	            for (var i = 2; i <= number; i++) {
+	                if (number % i == 0)
+	                {
+	                    checker++;
+	                }
+	            }
+	            if (checker == 1) {
+                    jsConsole.writeLine("Number is Prime!")
+	            }
+	            else {
+                    jsConsole.writeLine("Number is not Prime!")
+	            }
+	        }
+	    }
+	</script>
+</body>
+</html>

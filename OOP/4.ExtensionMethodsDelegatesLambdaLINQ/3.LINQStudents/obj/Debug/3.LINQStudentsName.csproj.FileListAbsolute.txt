@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\3.LINQStudents\bin\Debug\3.LINQStudents.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\3.LINQStudents\obj\Debug\3.LINQStudents.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\3.LINQStudents\obj\Debug\3.LINQStudents.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\3.LINQStudents\bin\Debug\3.LINQStudents.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\3.LINQStudents\bin\Debug\3.LINQStudents.pdb

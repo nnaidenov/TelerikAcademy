@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\6.PrintInt7and3ExtMethod\bin\Debug\6.PrintInt7and3ExtMethod.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\6.PrintInt7and3ExtMethod\bin\Debug\6.PrintInt7and3ExtMethod.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\6.PrintInt7and3ExtMethod\bin\Debug\6.PrintInt7and3ExtMethod.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\6.PrintInt7and3ExtMethod\obj\Debug\6.PrintInt7and3ExtMethod.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\6.PrintInt7and3ExtMethod\obj\Debug\6.PrintInt7and3ExtMethod.pdb

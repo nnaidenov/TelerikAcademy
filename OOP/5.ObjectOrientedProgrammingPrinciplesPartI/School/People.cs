@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    class People
+    abstract class People
     {
         private string name;
         private Comments comment;

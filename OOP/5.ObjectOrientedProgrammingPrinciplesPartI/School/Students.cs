@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    class Students : Class
+    class Students : People
     {
         private byte number;
 

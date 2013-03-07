@@ -64,7 +64,7 @@ namespace HumanTask
             get { return this.salaryPerHour; }
             set
             {
-                if (value >= 0)
+                if (value > 0)
                 {
                     this.salaryPerHour = value;
                 }
@@ -79,7 +79,7 @@ namespace HumanTask
         //Method
         public decimal MoneyPerHour()
         {
-            decimal perHour = this.weekSalary / (decimal)this.workHourPerDay;
+            decimal perHour = this.weekSalary / ((decimal)this.workHourPerDay * 5);
             return perHour;
         }
 

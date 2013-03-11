@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\4.MaximalIncreasingSequence\bin\4.MaximalIncreasingSequence.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\4.MaximalIncreasingSequence\bin\4.MaximalIncreasingSequence.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\4.MaximalIncreasingSequence\obj\Debug\4.MaximalIncreasingSequence.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\4.MaximalIncreasingSequence\obj\Debug\4.MaximalIncreasingSequence.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\4.MaximalIncreasingSequence\obj\Debug\4.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

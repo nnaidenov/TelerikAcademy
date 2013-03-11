@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <input type="text" id="tb-number" />
+	<a href="#" id="btn-check-prime" onclick="onClick()">Action</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var array = [2, 1, -6, 3, -5, 0, 12];
+	        var smallest = Number.MAX_VALUE;
+	        var serchingNum = jsConsole.readInteger("#tb-number");
+
+	        // Pring Array UnSort
+	        for (var a in array) {
+	            jsConsole.write(array[a] + ' ');
+	        }
+
+	        // Sort Array
+	        for (var i = 0; i < array.length; i++) {
+	            for (var j = i; j < array.length; j++) {
+	                if (array[j] < smallest) {
+	                    smallest = array[j];
+	                    array[j] = array[i];
+	                    array[i] = smallest;
+	                }
+	            }
+	            smallest = Number.MAX_VALUE;
+	        }
+
+	        jsConsole.writeLine();
+
+	        // Print SortArray
+	        for (var a in array) {
+	            jsConsole.write(array[a] + ' ');
+	        }
+
+	        var start = 0;
+	        var end = array.length - 1;
+	        var middle = 0;
+
+	        jsConsole.writeLine();
+
+	        // Start Serching
+	        while (start <= end) {
+	            middle = (start + end) / 2;
+	            if (array[middle] == serchingNum) {
+	                jsConsole.write("Position = " + middle);
+	                break;
+	            }
+	            if (array[middle] < serchingNum) {
+	                start = middle + 1;
+	            }
+	            if (array[middle] > serchingNum) {
+	                end = middle - 1;
+	            }
+	        }
+            //If element not found
+	        if (start > end) {
+	            jsConsole.write(-1);
+	        }
+	    }
+	</script>
+</body>
+</html>

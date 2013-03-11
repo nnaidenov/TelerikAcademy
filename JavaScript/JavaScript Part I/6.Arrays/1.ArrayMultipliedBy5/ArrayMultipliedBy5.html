@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<a href="#" id="btn-check-prime" onclick="onClick()">Action</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var array = [20];
+	        for (var i = 0; i < 20; i++) {
+	            array[i] = i+1;
+	        }
+            
+	        for (var i = 0; i < array.length; i++) {
+	            jsConsole.writeLine(array[i] * 5)
+	        }
+	    }
+	</script>
+</body>
+</html>

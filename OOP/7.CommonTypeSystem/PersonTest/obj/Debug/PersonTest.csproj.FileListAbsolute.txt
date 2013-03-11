@@ -1,0 +1,7 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\bin\Debug\PersonTest.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\bin\Debug\PersonTest.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\bin\Debug\PersonTask.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\bin\Debug\PersonTask.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\obj\Debug\PersonTest.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\obj\Debug\PersonTest.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTest\obj\Debug\PersonTest.pdb

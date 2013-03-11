@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<input type="text" id="tb-number" />
+	<a href="#" id="btn-check-prime" onclick="onClick()">Lexico</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var documentElements = document.getElementsByTagName('*');
+
+	        var sort = String(documentElements[0].tagName);
+
+	        for (var i = 1; i < documentElements.length; i++) {
+	            if (String(documentElements[i].tagName) > sort) {
+
+	                sort = String(documentElements[i].tagName);
+	            }
+	        }
+
+	        for (var property in navigator) {
+
+	            if (String(navigator[property]) > sort) {
+	                jsConsole.writeLine(sort);
+	                sort = String(navigator[property]);
+	            }
+	        }
+
+	        for (var property in window) {
+
+	            if (String(window[property]) > sort) {
+
+	                sort = String(window[property]);
+	                jsConsole.writeLine(sort);
+	            }
+	        }
+	        jsConsole.writeLine(sort);
+	    }
+	</script>
+</body>
+</html>

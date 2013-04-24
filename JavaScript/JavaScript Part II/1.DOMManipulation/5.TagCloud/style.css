@@ -1,0 +1,8 @@
+﻿#wrapper {
+    width: 300px;
+}
+
+#wrapper .cloud {
+    display: inline-block;
+    margin: 5px 10px;
+}

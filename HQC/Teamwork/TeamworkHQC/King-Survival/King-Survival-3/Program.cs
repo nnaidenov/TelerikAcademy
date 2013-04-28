@@ -8,12 +8,12 @@ namespace ConsoleApplication1
     class Program
     {
         struct RC {
-            public int r;
-            public int c;
+            public int Row;
+            public int Column;
             
             public RC(int rr, int cc) {
-                this.r = rr;
-                this.c = cc;
+                this.Row = rr;
+                this.Column = cc;
             }
         }
 
@@ -49,7 +49,7 @@ namespace ConsoleApplication1
         {
             if (turn % 2 == 1)
             {
-                if (K.r == 0)
+                if (K.Row == 0)
                 {
                     System.Console.Clear();
                     PE4AT_DASKA(A, B, C, D, K);
@@ -67,42 +67,42 @@ namespace ConsoleApplication1
                 bool KDL = true;
                 bool KDR = true;
 
-                if (K.r == 0)
+                if (K.Row == 0)
                 {
 					// tuka carya e na hod
                     KUL = false;
                     KUR = false;
                 }
-                else if (K.r == 7)
+                else if (K.Row == 7)
                 {
                     KDL = false;
                     KDR = false;
                 }
 
-                if (K.c == 0)
+                if (K.Column == 0)
                 {
                     KUL = false;
                     KDL = false;
                 }
-                else if (K.c == 7)
+                else if (K.Column == 7)
                 {
                     KUR = false; // kur v gyzaaaaa, oh boli!
                     KDR = false;
                 }
 
-                if (proverka(K.r - 1, K.c - 1, A, B, C, D))
+                if (proverka(K.Row - 1, K.Column - 1, A, B, C, D))
                 {
                     KUL = false;
                 }
-                if (proverka(K.r - 1, K.c + 1, A, B, C, D))
+                if (proverka(K.Row - 1, K.Column + 1, A, B, C, D))
                 {
                     KUR = false; // castration... nasty
                 }
-                if (proverka(K.r + 1, K.c - 1, A, B, C, D))
+                if (proverka(K.Row + 1, K.Column - 1, A, B, C, D))
                 {
                    KDL = false;
                 } 
-                if (proverka(K.r + 1, K.c + 1, A, B, C, D))
+                if (proverka(K.Row + 1, K.Column + 1, A, B, C, D))
                 {
                     KDR = false;
                 }
@@ -129,17 +129,17 @@ namespace ConsoleApplication1
 
         private static bool proverka1(RC pawn, RC obstacle1, RC obstacle2, RC obstacle3, RC obstacle4)
         {
-            if (pawn.r == 7)
+            if (pawn.Row == 7)
             {
                 return false;
             }
-            else if (pawn.c > 0 && pawn.c < 7)
+            else if (pawn.Column > 0 && pawn.Column < 7)
             {
-                if (proverka(pawn.r + 1, pawn.c + 1, obstacle1, obstacle2, obstacle3, obstacle4) &&
+                if (proverka(pawn.Row + 1, pawn.Column + 1, obstacle1, obstacle2, obstacle3, obstacle4) &&
 
                     proverka(
-					pawn.r + 1, 
-					pawn.c - 1, 
+					pawn.Row + 1, 
+					pawn.Column - 1, 
 					obstacle1, 
 					obstacle2, 
 					obstacle3, 
@@ -147,16 +147,16 @@ namespace ConsoleApplication1
 
 
             }
-            else if (pawn.c == 0)
+            else if (pawn.Column == 0)
             {
-                if (proverka(pawn.r + 1, pawn.c + 1, obstacle1, obstacle2, obstacle3, obstacle4))
+                if (proverka(pawn.Row + 1, pawn.Column + 1, obstacle1, obstacle2, obstacle3, obstacle4))
                 {
                     return false;
                 }
             }
-            else if (pawn.c == 4+3)
+            else if (pawn.Column == 4+3)
             {
-                if (proverka(pawn.r + 1, pawn.c - 1, obstacle1, obstacle2, obstacle3, obstacle4))
+                if (proverka(pawn.Row + 1, pawn.Column - 1, obstacle1, obstacle2, obstacle3, obstacle4))
                 {
                     return false;
 
@@ -175,10 +175,10 @@ namespace ConsoleApplication1
                 switch (move)
                 {
                     case "KUL":
-                        if (K.c > 0 && K.r > 0 && !proverka(K.r - 1, K.c - 1, A, B, C, D))
+                        if (K.Column > 0 && K.Row > 0 && !proverka(K.Row - 1, K.Column - 1, A, B, C, D))
                         {
-                            K.c--;
-                            K.r--;
+                            K.Column--;
+                            K.Row--;
                         }
                         else
                         {
@@ -188,10 +188,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "KUR": // if KUR... gotta love these moments
-                        if (K.c < 7 && K.r > 0 && !proverka(K.r - 1, K.c + 1, A, B, C, D))
+                        if (K.Column < 7 && K.Row > 0 && !proverka(K.Row - 1, K.Column + 1, A, B, C, D))
                         {
-                            K.c++;
-                            K.r--;
+                            K.Column++;
+                            K.Row--;
                         }
                         else
                         {
@@ -201,10 +201,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "KDL":
-                        if (K.c > 0 && K.r < 7 && !proverka(K.r + 1, K.c - 1, A, B, C, D))
+                        if (K.Column > 0 && K.Row < 7 && !proverka(K.Row + 1, K.Column - 1, A, B, C, D))
                         {
-                            K.c--;
-                            K.r++;
+                            K.Column--;
+                            K.Row++;
                         }
                         else
                         {
@@ -218,10 +218,10 @@ namespace ConsoleApplication1
                     case "KDR":
 
 
-                        if (K.c < 7 && K.r < 7 && !proverka(K.r + 1, K.c + 1, A, B, C, D))
+                        if (K.Column < 7 && K.Row < 7 && !proverka(K.Row + 1, K.Column + 1, A, B, C, D))
                         {
-                            K.c++;
-                            K.r++;
+                            K.Column++;
+                            K.Row++;
                         }
                         else
                         {
@@ -247,10 +247,10 @@ namespace ConsoleApplication1
                 switch (move)
                 {
                     case "ADL":
-                        if (A.c > 0 && A.r < 7 && !proverka(A.r + 1, A.c - 1, K, B, C, D))
+                        if (A.Column > 0 && A.Row < 7 && !proverka(A.Row + 1, A.Column - 1, K, B, C, D))
                         {
-                            A.c--;
-                            A.r++;
+                            A.Column--;
+                            A.Row++;
                         }
                         else
                         {
@@ -260,10 +260,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "ADR":
-                        if (A.c < 7 && A.r < 7 && !proverka(A.r + 1, A.c + 1, K, B, C, D))
+                        if (A.Column < 7 && A.Row < 7 && !proverka(A.Row + 1, A.Column + 1, K, B, C, D))
                         {
-                            A.c++;
-                            A.r++;
+                            A.Column++;
+                            A.Row++;
                         }
                         else
                         {
@@ -273,13 +273,13 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "BDL":
-                        if (B.c > 0 && B.r < 7 && 
+                        if (B.Column > 0 && B.Row < 7 && 
 							
-							!proverka(B.r + 1, B.c - 1, A, K, C, D))
+							!proverka(B.Row + 1, B.Column - 1, A, K, C, D))
                         {
-                            B.c--;
+                            B.Column--;
 
-                            B.r++;
+                            B.Row++;
                         }
                         else
                         {
@@ -289,10 +289,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "BDR":
-                        if (B.c < 7 && B.r < 7 && !proverka(B.r + 1, B.c + 1, A, K, C, D))
+                        if (B.Column < 7 && B.Row < 7 && !proverka(B.Row + 1, B.Column + 1, A, K, C, D))
                         {
-                            B.c++;
-                            B.r++;
+                            B.Column++;
+                            B.Row++;
                         }
                         else
                         {
@@ -302,10 +302,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "CDL":
-                        if (C.c > 0 && C.r < 7 && !proverka(C.r + 1, C.c + 1, A, B, K, D))
+                        if (C.Column > 0 && C.Row < 7 && !proverka(C.Row + 1, C.Column + 1, A, B, K, D))
                         {
-                            C.c--;
-                            C.r++;
+                            C.Column--;
+                            C.Row++;
                         }
                         else
                         {
@@ -315,10 +315,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "CDR":
-                        if (C.c < 7 && C.r < 7 && !proverka(C.r + 1, C.c + 1, A, B, K, D))
+                        if (C.Column < 7 && C.Row < 7 && !proverka(C.Row + 1, C.Column + 1, A, B, K, D))
                         {
-                            C.c++;
-                            C.r++;
+                            C.Column++;
+                            C.Row++;
                         }
                         else
                         {
@@ -328,10 +328,10 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "DDL":
-                        if (D.c > 0 && D.r < 7 && !proverka(D.r + 1, D.c - 1, A, B, C, K))
+                        if (D.Column > 0 && D.Row < 7 && !proverka(D.Row + 1, D.Column - 1, A, B, C, K))
                         {
-                            D.c--;
-                            D.r++;
+                            D.Column--;
+                            D.Row++;
                         }
                         else
                         {
@@ -341,12 +341,12 @@ namespace ConsoleApplication1
                         }
                         break;
                     case "DDR":
-                        if (D.c < 7 && D.r < 7 && !proverka(D.r + 1, D.c + 1, A, B, C, K))
+                        if (D.Column < 7 && D.Row < 7 && !proverka(D.Row + 1, D.Column + 1, A, B, C, K))
                         { 
 
 
-                            D.c++;
-                            D.r++;
+                            D.Column++;
+                            D.Row++;
                         }
                         else
                         {
@@ -369,10 +369,10 @@ namespace ConsoleApplication1
 
         private static bool proverka(int notOverlapedRow, int notOverlapedColumn, RC overlap1, RC overlap2, RC overlap3, RC overlap4)
         {
-            if (notOverlapedRow == overlap1.r && notOverlapedColumn == overlap1.c) return true;
-				else if (notOverlapedRow == overlap2.r && notOverlapedColumn == overlap2.c) return true;
-				     else if (notOverlapedRow == overlap3.r && notOverlapedColumn == overlap3.c) return true;
-				          else if (notOverlapedRow == overlap4.r && notOverlapedColumn == overlap4.c) return true;
+            if (notOverlapedRow == overlap1.Row && notOverlapedColumn == overlap1.Column) return true;
+				else if (notOverlapedRow == overlap2.Row && notOverlapedColumn == overlap2.Column) return true;
+				     else if (notOverlapedRow == overlap3.Row && notOverlapedColumn == overlap3.Column) return true;
+				          else if (notOverlapedRow == overlap4.Row && notOverlapedColumn == overlap4.Column) return true;
 							   else       
                 return false;
 
@@ -432,23 +432,23 @@ namespace ConsoleApplication1
 
         private static void find(RC A, RC B, RC C, RC D, RC K, int i, int j, out char symbol)
         {
-            if (A.r == i && A.c == j)
+            if (A.Row == i && A.Column == j)
             {
                 symbol = 'A';
             }
-            else if (B.r == i && B.c == j)
+            else if (B.Row == i && B.Column == j)
             {
                 symbol = 'B';
             }
-            else if (C.r == i && C.c == j)
+            else if (C.Row == i && C.Column == j)
             {
                 symbol = 'C';
             }
-            else if (D.r == i && D.c == j)
+            else if (D.Row == i && D.Column == j)
             {
                 symbol = 'D';
             }
-            else if (K.r == i && K.c == j)
+            else if (K.Row == i && K.Column == j)
             {
                 symbol = 'K';
             }

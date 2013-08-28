@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaximalSequenceOfEqualElements\obj\Debug\MaximalSequenceOfEqualElements.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaximalSequenceOfEqualElements\obj\Debug\MaximalSequenceOfEqualElements.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaximalSequenceOfEqualElements\obj\Debug\MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache

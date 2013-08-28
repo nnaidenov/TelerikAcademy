@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\22.DifferentWords\bin\Debug\22.DifferentWords.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\22.DifferentWords\bin\Debug\22.DifferentWords.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\22.DifferentWords\bin\Debug\22.DifferentWords.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\22.DifferentWords\obj\Debug\22.DifferentWords.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\22.DifferentWords\obj\Debug\22.DifferentWords.pdb

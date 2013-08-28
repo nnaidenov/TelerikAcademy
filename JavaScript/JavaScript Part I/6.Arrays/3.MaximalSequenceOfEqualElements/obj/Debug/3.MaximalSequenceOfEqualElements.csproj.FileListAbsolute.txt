@@ -1,4 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\3.MaximalSequenceOfEqualElements\bin\3.MaximalSequenceOfEqualElements.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\3.MaximalSequenceOfEqualElements\bin\3.MaximalSequenceOfEqualElements.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\3.MaximalSequenceOfEqualElements\obj\Debug\3.MaximalSequenceOfEqualElements.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\3.MaximalSequenceOfEqualElements\obj\Debug\3.MaximalSequenceOfEqualElements.pdb

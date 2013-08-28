@@ -1,7 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\bin\Debug\TestShapes.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\bin\Debug\TestShapes.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\bin\Debug\ShapeTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\bin\Debug\ShapeTask.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\obj\Debug\TestShapes.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\obj\Debug\TestShapes.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\TestShapes\obj\Debug\TestShapes.pdb

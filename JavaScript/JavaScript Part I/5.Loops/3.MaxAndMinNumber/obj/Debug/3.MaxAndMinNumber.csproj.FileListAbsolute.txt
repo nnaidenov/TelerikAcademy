@@ -1,4 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\3.MaxAndMinNumber\bin\3.MaxAndMinNumber.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\3.MaxAndMinNumber\bin\3.MaxAndMinNumber.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\3.MaxAndMinNumber\obj\Debug\3.MaxAndMinNumber.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\3.MaxAndMinNumber\obj\Debug\3.MaxAndMinNumber.pdb

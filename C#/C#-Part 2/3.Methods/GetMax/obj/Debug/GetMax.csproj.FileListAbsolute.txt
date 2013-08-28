@@ -1,1 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\bin\Debug\GetMax.exe.config

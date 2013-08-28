@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\binarySearch\bin\Debug\binarySearch.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\binarySearch\bin\Debug\binarySearch.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\binarySearch\bin\Debug\binarySearch.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\binarySearch\obj\Debug\binarySearch.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\binarySearch\obj\Debug\binarySearch.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\binarySearch\obj\Debug\binarySearch.pdb

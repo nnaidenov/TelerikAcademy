@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\13.SolveTasks\bin\Debug\13.SolveTasks.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\13.SolveTasks\bin\Debug\13.SolveTasks.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\13.SolveTasks\bin\Debug\13.SolveTasks.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\13.SolveTasks\obj\Debug\13.SolveTasks.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\13.SolveTasks\obj\Debug\13.SolveTasks.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\13.SolveTasks\obj\Debug\13.SolveTasks.pdb

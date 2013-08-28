@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

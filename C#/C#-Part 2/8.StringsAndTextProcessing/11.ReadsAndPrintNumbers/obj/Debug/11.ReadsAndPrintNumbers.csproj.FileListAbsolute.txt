@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\11.ReadsAndPrintNumbers\bin\Debug\11.ReadsAndPrintNumbers.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\11.ReadsAndPrintNumbers\bin\Debug\11.ReadsAndPrintNumbers.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\11.ReadsAndPrintNumbers\bin\Debug\11.ReadsAndPrintNumbers.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\11.ReadsAndPrintNumbers\obj\Debug\11.ReadsAndPrintNumbers.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\11.ReadsAndPrintNumbers\obj\Debug\11.ReadsAndPrintNumbers.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\11.ReadsAndPrintNumbers\obj\Debug\11.ReadsAndPrintNumbers.pdb

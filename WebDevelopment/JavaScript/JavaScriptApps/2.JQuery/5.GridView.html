@@ -1,0 +1,36 @@
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+  <script type="text/javascript" src="grid.js"></script>
+</head>
+<body>
+
+  <div id="grid-holder"></div>
+  <div id="nest-holder"></div>
+
+  <script type="text/javascript">
+   var schoolsGrid = controls.getGridView("#grid-holder");
+   schoolsGrid.addHeader("<br/>Name","Location","Address","Age");
+   schoolsGrid.addRow("Joro","Sofia","ul.fsgs","25");
+   schoolsGrid.addRow("Anastas","Burgas","ul.fdfs","12");
+   schoolsGrid.addRow("Nakov","Burgas","ul.fcsadfsa","30");
+   
+   schoolsGrid.render();
+
+   var academyRow = schoolsGrid.addRow("Telerik","Sofia","250","IT");
+   schoolsGrid.render();
+
+   var academyGrid = academyRow.getNestedGridView();
+   academyGrid.addRow("Telerik","Sofia","250","IT");
+   academyGrid.addRow("Telerik","Sofia","250","IT");
+   academyGrid.addRow("Telerik","Sofia","250","IT");
+   academyGrid.addRow("Telerik","Sofia","250","IT");
+   academyGrid.render();
+
+
+  </script>
+
+  
+</body>
+</html>

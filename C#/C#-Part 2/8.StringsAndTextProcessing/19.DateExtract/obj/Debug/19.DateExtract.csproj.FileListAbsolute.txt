@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\19.DateExtract\bin\Debug\19.DateExtract.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\19.DateExtract\bin\Debug\19.DateExtract.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\19.DateExtract\bin\Debug\19.DateExtract.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\19.DateExtract\obj\Debug\19.DateExtract.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\19.DateExtract\obj\Debug\19.DateExtract.pdb

@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\6.MostFrequentNumber\bin\6.MostFrequentNumber.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\6.MostFrequentNumber\bin\6.MostFrequentNumber.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\6.MostFrequentNumber\obj\Debug\6.MostFrequentNumber.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\6.MostFrequentNumber\obj\Debug\6.MostFrequentNumber.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\6.MostFrequentNumber\obj\Debug\6.MostFrequentNumber.csprojResolveAssemblyReference.cache

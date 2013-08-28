@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\6.ReadsTextFileListOfStringsSortsThem\bin\Debug\6.ReadsTextFileListOfStringsSortsThem.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\6.ReadsTextFileListOfStringsSortsThem\obj\Debug\6.ReadsTextFileListOfStringsSortsThem.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\6.ReadsTextFileListOfStringsSortsThem\bin\Debug\6.ReadsTextFileListOfStringsSortsThem.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\6.ReadsTextFileListOfStringsSortsThem\bin\Debug\6.ReadsTextFileListOfStringsSortsThem.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\6.ReadsTextFileListOfStringsSortsThem\obj\Debug\6.ReadsTextFileListOfStringsSortsThem.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\6.ReadsTextFileListOfStringsSortsThem\obj\Debug\6.ReadsTextFileListOfStringsSortsThem.pdb

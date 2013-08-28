@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\4.HowManyTimesAppear\bin\Debug\4.HowManyTimesAppear.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\4.HowManyTimesAppear\bin\Debug\4.HowManyTimesAppear.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\4.HowManyTimesAppear\bin\Debug\4.HowManyTimesAppear.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\4.HowManyTimesAppear\obj\Debug\4.HowManyTimesAppear.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\4.HowManyTimesAppear\obj\Debug\4.HowManyTimesAppear.pdb

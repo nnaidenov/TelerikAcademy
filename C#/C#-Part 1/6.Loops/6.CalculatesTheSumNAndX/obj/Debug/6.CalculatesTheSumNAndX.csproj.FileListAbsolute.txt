@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\6.CalculatesTheSumNAndX\bin\Debug\6.CalculatesTheSumNAndX.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\6.CalculatesTheSumNAndX\bin\Debug\6.CalculatesTheSumNAndX.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\6.CalculatesTheSumNAndX\bin\Debug\6.CalculatesTheSumNAndX.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\6.CalculatesTheSumNAndX\obj\Debug\6.CalculatesTheSumNAndX.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\6.CalculatesTheSumNAndX\obj\Debug\6.CalculatesTheSumNAndX.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\6.CalculatesTheSumNAndX\obj\Debug\6.CalculatesTheSumNAndX.pdb

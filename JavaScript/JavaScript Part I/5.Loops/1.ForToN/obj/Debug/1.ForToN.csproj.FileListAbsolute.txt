@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\1.ForToN\bin\1.ForToN.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\1.ForToN\bin\1.ForToN.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\1.ForToN\obj\Debug\1.ForToN.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\1.ForToN\obj\Debug\1.ForToN.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\1.ForToN\obj\Debug\1.ForToN.pdb

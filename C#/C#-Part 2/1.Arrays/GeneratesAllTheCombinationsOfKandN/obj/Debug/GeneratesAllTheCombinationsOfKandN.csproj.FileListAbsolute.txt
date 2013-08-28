@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\GeneratesAllTheCombinationsOfKandN\bin\Debug\GeneratesAllTheCombinationsOfKandN.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\GeneratesAllTheCombinationsOfKandN\bin\Debug\GeneratesAllTheCombinationsOfKandN.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\GeneratesAllTheCombinationsOfKandN\bin\Debug\GeneratesAllTheCombinationsOfKandN.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\GeneratesAllTheCombinationsOfKandN\obj\Debug\GeneratesAllTheCombinationsOfKandN.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\GeneratesAllTheCombinationsOfKandN\obj\Debug\GeneratesAllTheCombinationsOfKandN.pdb

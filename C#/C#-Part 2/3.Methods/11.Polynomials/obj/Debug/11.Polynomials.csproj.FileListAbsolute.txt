@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\11.Polynomials\bin\Debug\11.Polynomials.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\11.Polynomials\bin\Debug\11.Polynomials.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\11.Polynomials\bin\Debug\11.Polynomials.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\11.Polynomials\obj\Debug\11.Polynomials.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\11.Polynomials\obj\Debug\11.Polynomials.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\11.Polynomials\obj\Debug\11.Polynomials.pdb

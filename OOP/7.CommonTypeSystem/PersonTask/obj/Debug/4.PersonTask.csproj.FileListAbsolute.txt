@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTask\bin\Debug\PersonTask.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTask\bin\Debug\PersonTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTask\bin\Debug\PersonTask.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTask\obj\Debug\4.PersonTask.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTask\obj\Debug\PersonTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\PersonTask\obj\Debug\PersonTask.pdb

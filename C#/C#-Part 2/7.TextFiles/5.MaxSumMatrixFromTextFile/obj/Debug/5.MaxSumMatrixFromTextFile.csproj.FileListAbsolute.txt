@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\5.MaxSumMatrixFromTextFile\bin\Debug\5.MaxSumMatrixFromTextFile.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\5.MaxSumMatrixFromTextFile\obj\Debug\5.MaxSumMatrixFromTextFile.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\5.MaxSumMatrixFromTextFile\bin\Debug\5.MaxSumMatrixFromTextFile.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\5.MaxSumMatrixFromTextFile\bin\Debug\5.MaxSumMatrixFromTextFile.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\5.MaxSumMatrixFromTextFile\obj\Debug\5.MaxSumMatrixFromTextFile.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\5.MaxSumMatrixFromTextFile\obj\Debug\5.MaxSumMatrixFromTextFile.pdb

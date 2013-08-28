@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\2.SignOfProductThreeNumbers\bin\Debug\2.SignOfProductThreeNumbers.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\2.SignOfProductThreeNumbers\bin\Debug\2.SignOfProductThreeNumbers.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\2.SignOfProductThreeNumbers\bin\Debug\2.SignOfProductThreeNumbers.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\2.SignOfProductThreeNumbers\obj\Debug\2.SignOfProductThreeNumbers.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\2.SignOfProductThreeNumbers\obj\Debug\2.SignOfProductThreeNumbers.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\2.SignOfProductThreeNumbers\obj\Debug\2.SignOfProductThreeNumbers.pdb

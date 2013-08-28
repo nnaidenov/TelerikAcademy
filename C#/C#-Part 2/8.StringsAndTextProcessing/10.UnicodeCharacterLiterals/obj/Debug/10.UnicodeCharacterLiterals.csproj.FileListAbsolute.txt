@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\10.UnicodeCharacterLiterals\bin\Debug\10.UnicodeCharacterLiterals.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\10.UnicodeCharacterLiterals\bin\Debug\10.UnicodeCharacterLiterals.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\10.UnicodeCharacterLiterals\bin\Debug\10.UnicodeCharacterLiterals.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\10.UnicodeCharacterLiterals\obj\Debug\10.UnicodeCharacterLiterals.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\10.UnicodeCharacterLiterals\obj\Debug\10.UnicodeCharacterLiterals.pdb

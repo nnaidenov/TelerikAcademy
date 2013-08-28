@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\9.CircleAndRectangle\bin\9.CircleAndRectangle.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\9.CircleAndRectangle\bin\9.CircleAndRectangle.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\9.CircleAndRectangle\obj\Debug\9.CircleAndRectangle.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\9.CircleAndRectangle\obj\Debug\9.CircleAndRectangle.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\9.CircleAndRectangle\obj\Debug\9.CircleAndRectangle.csprojResolveAssemblyReference.cache

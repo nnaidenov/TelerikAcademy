@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\1.ArrayMultipliedBy5\bin\1.ArrayMultipliedBy5.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\1.ArrayMultipliedBy5\bin\1.ArrayMultipliedBy5.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\1.ArrayMultipliedBy5\obj\Debug\1.ArrayMultipliedBy5.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\1.ArrayMultipliedBy5\obj\Debug\1.ArrayMultipliedBy5.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\1.ArrayMultipliedBy5\obj\Debug\1.ArrayMultipliedBy5.pdb

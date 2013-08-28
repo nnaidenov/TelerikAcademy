@@ -1,9 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\bin\Debug\1.CalculatesAndPrintsSquareRoot.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\obj\Debug\1.CalculatesAndPrintsSquareRoot.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\bin\Debug\1.CalculatesAndPrintsSquareRoot.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\bin\Debug\1.CalculatesAndPrintsSquareRoot.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\obj\Debug\1.CalculatesAndPrintsSquareRoot.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\obj\Debug\1.CalculatesAndPrintsSquareRoot.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.ExceptionHandling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\bin\Debug\1.CalculatesAndPrintsSquareRoot.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.ExceptionHandling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\obj\Debug\1.CalculatesAndPrintsSquareRoot.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.ExceptionHandling\HW\ExceptionsHandling\1.CalculatesAndPrintsSquareRoot\obj\Debug\1.CalculatesAndPrintsSquareRoot.pdb

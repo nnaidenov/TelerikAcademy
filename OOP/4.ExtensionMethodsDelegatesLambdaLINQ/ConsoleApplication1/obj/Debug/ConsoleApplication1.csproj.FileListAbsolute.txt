@@ -1,1 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\4.ExtensionMethodsDelegatesLambdaLINQ\HW\ExtMethodsDelegLamLINQ\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

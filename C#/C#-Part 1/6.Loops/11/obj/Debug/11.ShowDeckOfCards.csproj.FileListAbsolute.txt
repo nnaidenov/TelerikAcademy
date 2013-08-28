@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\11\bin\Debug\11.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\11\bin\Debug\11.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\11\bin\Debug\11.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\11\obj\Debug\11.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\11\obj\Debug\11.pdb

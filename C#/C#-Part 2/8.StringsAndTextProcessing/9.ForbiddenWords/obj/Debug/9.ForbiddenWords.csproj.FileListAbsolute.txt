@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.pdb

@@ -1,3 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\6\bin\Debug\6.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\6\obj\Debug\6.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\6\obj\Debug\6.pdb

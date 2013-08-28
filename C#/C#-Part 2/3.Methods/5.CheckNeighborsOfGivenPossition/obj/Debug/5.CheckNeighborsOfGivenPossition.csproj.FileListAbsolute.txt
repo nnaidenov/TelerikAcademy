@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\5.CheckNeighborsOfGivenPossition\bin\Debug\5.CheckNeighborsOfGivenPossition.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\5.CheckNeighborsOfGivenPossition\bin\Debug\5.CheckNeighborsOfGivenPossition.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\5.CheckNeighborsOfGivenPossition\bin\Debug\5.CheckNeighborsOfGivenPossition.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\5.CheckNeighborsOfGivenPossition\obj\Debug\5.CheckNeighborsOfGivenPossition.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\5.CheckNeighborsOfGivenPossition\obj\Debug\5.CheckNeighborsOfGivenPossition.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\5.CheckNeighborsOfGivenPossition\obj\Debug\5.CheckNeighborsOfGivenPossition.csprojResolveAssemblyReference.cache

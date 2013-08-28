@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\3.ReadSequenceOfNAndPrintMinAndMax\bin\Debug\3.ReadSequenceOfNAndPrintMinAndMax.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\3.ReadSequenceOfNAndPrintMinAndMax\bin\Debug\3.ReadSequenceOfNAndPrintMinAndMax.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\3.ReadSequenceOfNAndPrintMinAndMax\bin\Debug\3.ReadSequenceOfNAndPrintMinAndMax.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\3.ReadSequenceOfNAndPrintMinAndMax\obj\Debug\3.ReadSequenceOfNAndPrintMinAndMax.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\3.ReadSequenceOfNAndPrintMinAndMax\obj\Debug\3.ReadSequenceOfNAndPrintMinAndMax.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\3.ReadSequenceOfNAndPrintMinAndMax\obj\Debug\3.ReadSequenceOfNAndPrintMinAndMax.csprojResolveAssemblyReference.cache

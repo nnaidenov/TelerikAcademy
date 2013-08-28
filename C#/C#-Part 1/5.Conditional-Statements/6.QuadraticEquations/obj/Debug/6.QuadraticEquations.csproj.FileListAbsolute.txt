@@ -1,1 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\6.QuadraticEquations\bin\Debug\6.QuadraticEquations.exe.config

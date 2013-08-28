@@ -1,0 +1,14 @@
+#holder {
+    border: 1px solid black;
+    width: 700px;
+}
+
+#thumbImgHolder li {
+    display: inline;
+    margin: 5px;
+}
+
+#bigImgHolder img {
+    width: 350px;
+    height: 200px;
+}

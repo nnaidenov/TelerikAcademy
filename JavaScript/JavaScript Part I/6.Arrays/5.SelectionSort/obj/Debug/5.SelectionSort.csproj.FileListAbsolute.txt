@@ -1,4 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\5.SelectionSort\bin\5.SelectionSort.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\5.SelectionSort\bin\5.SelectionSort.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\5.SelectionSort\obj\Debug\5.SelectionSort.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\5.SelectionSort\obj\Debug\5.SelectionSort.pdb

@@ -1,4 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\7.BinatySearch\bin\7.BinatySearch.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\7.BinatySearch\bin\7.BinatySearch.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\7.BinatySearch\obj\Debug\7.BinatySearch.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Arrays\7.BinatySearch\obj\Debug\7.BinatySearch.pdb

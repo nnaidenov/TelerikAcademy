@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\4.SurfaceOfTriangle\bin\Debug\4.SurfaceOfTriangle.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\4.SurfaceOfTriangle\bin\Debug\4.SurfaceOfTriangle.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\4.SurfaceOfTriangle\bin\Debug\4.SurfaceOfTriangle.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\4.SurfaceOfTriangle\obj\Debug\4.SurfaceOfTriangle.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\4.SurfaceOfTriangle\obj\Debug\4.SurfaceOfTriangle.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\4.SurfaceOfTriangle\obj\Debug\4.SurfaceOfTriangle.csprojResolveAssemblyReference.cache

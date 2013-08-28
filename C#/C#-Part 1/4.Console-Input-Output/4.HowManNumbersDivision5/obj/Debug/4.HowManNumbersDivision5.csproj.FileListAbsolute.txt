@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\4.HowManNumbersDivision5\bin\Debug\4.HowManNumbersDivision5.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\4.HowManNumbersDivision5\bin\Debug\4.HowManNumbersDivision5.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\4.HowManNumbersDivision5\bin\Debug\4.HowManNumbersDivision5.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\4.HowManNumbersDivision5\obj\Debug\4.HowManNumbersDivision5.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\4.HowManNumbersDivision5\obj\Debug\4.HowManNumbersDivision5.pdb

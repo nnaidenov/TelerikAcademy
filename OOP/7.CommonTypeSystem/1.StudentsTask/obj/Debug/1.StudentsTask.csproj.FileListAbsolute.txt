@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\1.StudentsTask\bin\Debug\1.StudentsTask.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\1.StudentsTask\bin\Debug\1.StudentsTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\1.StudentsTask\bin\Debug\1.StudentsTask.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\1.StudentsTask\obj\Debug\1.StudentsTask.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\1.StudentsTask\obj\Debug\1.StudentsTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\1.StudentsTask\obj\Debug\1.StudentsTask.pdb

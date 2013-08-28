@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\2.ReadNumber\bin\Debug\2.ReadNumber.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\2.ReadNumber\bin\Debug\2.ReadNumber.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\2.ReadNumber\bin\Debug\2.ReadNumber.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\2.ReadNumber\obj\Debug\2.ReadNumber.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\6.Exception-Handling\HW\ExceptionsHandling\2.ReadNumber\obj\Debug\2.ReadNumber.pdb

@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\HumanTask\obj\Debug\HumanTask.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\HumanTask\bin\Debug\HumanTask.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\HumanTask\bin\Debug\HumanTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\HumanTask\bin\Debug\HumanTask.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\HumanTask\obj\Debug\HumanTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\HumanTask\obj\Debug\HumanTask.pdb

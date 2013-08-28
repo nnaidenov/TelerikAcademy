@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintsAllThePermutationsOfN\bin\Debug\PrintsAllThePermutationsOfN.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintsAllThePermutationsOfN\bin\Debug\PrintsAllThePermutationsOfN.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintsAllThePermutationsOfN\bin\Debug\PrintsAllThePermutationsOfN.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintsAllThePermutationsOfN\obj\Debug\PrintsAllThePermutationsOfN.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintsAllThePermutationsOfN\obj\Debug\PrintsAllThePermutationsOfN.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\PrintsAllThePermutationsOfN\obj\Debug\PrintsAllThePermutationsOfN.pdb

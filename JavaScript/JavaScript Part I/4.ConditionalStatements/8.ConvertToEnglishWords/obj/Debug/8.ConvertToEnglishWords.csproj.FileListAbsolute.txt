@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\8.ConvertToEnglishWords\bin\8.ConvertToEnglishWords.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\8.ConvertToEnglishWords\bin\8.ConvertToEnglishWords.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\8.ConvertToEnglishWords\obj\Debug\8.ConvertToEnglishWords.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\8.ConvertToEnglishWords\obj\Debug\8.ConvertToEnglishWords.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\8.ConvertToEnglishWords\obj\Debug\8.ConvertToEnglishWords.pdb

@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\25.HtmlReadAndExtract\bin\Debug\25.HtmlReadAndExtract.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\25.HtmlReadAndExtract\bin\Debug\25.HtmlReadAndExtract.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\25.HtmlReadAndExtract\bin\Debug\25.HtmlReadAndExtract.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\25.HtmlReadAndExtract\obj\Debug\25.HtmlReadAndExtract.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\25.HtmlReadAndExtract\obj\Debug\25.HtmlReadAndExtract.pdb

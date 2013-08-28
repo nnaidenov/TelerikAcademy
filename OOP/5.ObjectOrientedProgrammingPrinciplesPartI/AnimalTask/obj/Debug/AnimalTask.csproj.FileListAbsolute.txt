@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\AnimalTask\bin\Debug\AnimalTask.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\AnimalTask\bin\Debug\AnimalTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\AnimalTask\bin\Debug\AnimalTask.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\AnimalTask\obj\Debug\AnimalTask.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\AnimalTask\obj\Debug\AnimalTask.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\5.ObjectOrientedProgrammingPrinciplesPartI\HW\OOProgrPrinciplesI\AnimalTask\obj\Debug\AnimalTask.pdb

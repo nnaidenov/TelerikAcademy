@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\7.SumNNumbers\bin\Debug\7.SumNNumbers.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\7.SumNNumbers\bin\Debug\7.SumNNumbers.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\7.SumNNumbers\bin\Debug\7.SumNNumbers.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\7.SumNNumbers\obj\Debug\7.SumNNumbers.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\7.SumNNumbers\obj\Debug\7.SumNNumbers.pdb

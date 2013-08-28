@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\MaximalSumOfArea\bin\Debug\MaximalSumOfArea.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\MaximalSumOfArea\bin\Debug\MaximalSumOfArea.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\MaximalSumOfArea\bin\Debug\MaximalSumOfArea.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\MaximalSumOfArea\obj\Debug\MaximalSumOfArea.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\MaximalSumOfArea\obj\Debug\MaximalSumOfArea.pdb

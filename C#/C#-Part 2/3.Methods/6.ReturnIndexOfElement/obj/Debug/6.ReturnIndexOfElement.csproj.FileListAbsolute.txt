@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\6.ReturnIndexOfElement\bin\Debug\6.ReturnIndexOfElement.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\6.ReturnIndexOfElement\bin\Debug\6.ReturnIndexOfElement.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\6.ReturnIndexOfElement\bin\Debug\6.ReturnIndexOfElement.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\6.ReturnIndexOfElement\obj\Debug\6.ReturnIndexOfElement.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\6.ReturnIndexOfElement\obj\Debug\6.ReturnIndexOfElement.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\6.ReturnIndexOfElement\obj\Debug\6.ReturnIndexOfElement.csprojResolveAssemblyReference.cache

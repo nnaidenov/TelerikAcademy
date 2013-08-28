@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\12.PrintMatrix\obj\Debug\12.PrintMatrix.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\12.PrintMatrix\obj\Debug\12.PrintMatrix.pdb

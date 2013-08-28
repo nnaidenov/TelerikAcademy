@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\7.ReverseDigitOfGivenNumber\bin\Debug\7.ReverseDigitOfGivenNumber.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\7.ReverseDigitOfGivenNumber\bin\Debug\7.ReverseDigitOfGivenNumber.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\7.ReverseDigitOfGivenNumber\bin\Debug\7.ReverseDigitOfGivenNumber.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\7.ReverseDigitOfGivenNumber\obj\Debug\7.ReverseDigitOfGivenNumber.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\7.ReverseDigitOfGivenNumber\obj\Debug\7.ReverseDigitOfGivenNumber.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\7.ReverseDigitOfGivenNumber\obj\Debug\7.ReverseDigitOfGivenNumber.csprojResolveAssemblyReference.cache

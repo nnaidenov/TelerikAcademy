@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\3.WhichDayIsToday\bin\Debug\3.WhichDayIsToday.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\3.WhichDayIsToday\bin\Debug\3.WhichDayIsToday.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\3.WhichDayIsToday\bin\Debug\3.WhichDayIsToday.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\3.WhichDayIsToday\obj\Debug\3.WhichDayIsToday.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\3.WhichDayIsToday\obj\Debug\3.WhichDayIsToday.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\3.WhichDayIsToday\obj\Debug\3.WhichDayIsToday.csprojResolveAssemblyReference.cache

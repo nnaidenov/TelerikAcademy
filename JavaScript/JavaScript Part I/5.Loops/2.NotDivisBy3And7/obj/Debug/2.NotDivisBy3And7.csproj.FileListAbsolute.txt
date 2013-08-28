@@ -1,4 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\2.NotDivisBy3And7\bin\2.NotDivisBy3And7.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\2.NotDivisBy3And7\bin\2.NotDivisBy3And7.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\2.NotDivisBy3And7\obj\Debug\2.NotDivisBy3And7.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\Loops\2.NotDivisBy3And7\obj\Debug\2.NotDivisBy3And7.pdb

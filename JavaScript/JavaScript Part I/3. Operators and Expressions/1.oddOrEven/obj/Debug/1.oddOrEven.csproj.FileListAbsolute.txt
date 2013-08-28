@@ -1,5 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\1.oddOrEven\bin\1.oddOrEven.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\1.oddOrEven\bin\1.oddOrEven.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\1.oddOrEven\obj\Debug\1.oddOrEven.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\1.oddOrEven\obj\Debug\1.oddOrEven.dll
-C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\1.oddOrEven\obj\Debug\1.oddOrEven.pdb

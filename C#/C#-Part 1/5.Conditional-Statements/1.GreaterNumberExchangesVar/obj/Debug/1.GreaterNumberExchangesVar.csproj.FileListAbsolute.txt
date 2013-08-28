@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\1.GreaterNumberExchangesVar\bin\Debug\1.GreaterNumberExchangesVar.exe.config
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\1.GreaterNumberExchangesVar\bin\Debug\1.GreaterNumberExchangesVar.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\1.GreaterNumberExchangesVar\bin\Debug\1.GreaterNumberExchangesVar.pdb
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\1.GreaterNumberExchangesVar\obj\Debug\1.GreaterNumberExchangesVar.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\1.GreaterNumberExchangesVar\obj\Debug\1.GreaterNumberExchangesVar.exe
-C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\1.GreaterNumberExchangesVar\obj\Debug\1.GreaterNumberExchangesVar.pdb

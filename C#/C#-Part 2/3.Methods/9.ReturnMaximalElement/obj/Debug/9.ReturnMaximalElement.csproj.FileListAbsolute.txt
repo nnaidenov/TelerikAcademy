@@ -1,6 +1,0 @@
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\9.ReturnMaximalElement\bin\Debug\9.ReturnMaximalElement.exe.config
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\9.ReturnMaximalElement\bin\Debug\9.ReturnMaximalElement.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\9.ReturnMaximalElement\bin\Debug\9.ReturnMaximalElement.pdb
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\9.ReturnMaximalElement\obj\Debug\9.ReturnMaximalElement.csprojResolveAssemblyReference.cache
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\9.ReturnMaximalElement\obj\Debug\9.ReturnMaximalElement.exe
-C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\9.ReturnMaximalElement\obj\Debug\9.ReturnMaximalElement.pdb

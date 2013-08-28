@@ -1,0 +1,202 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+}
+.invisible {
+  display: none;
+}
+#wrapper {
+  width: 1024px;
+}
+body {
+  margin-left: 50px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, 'DejaVu Sans', sans-serif;
+}
+body a {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+}
+body a:hover {
+  color: #666664;
+}
+body a.current {
+  font-weight: bold;
+}
+body form {
+  width: 450px;
+  background: -webkit-linear-gradient(top, #ffffff 10%, #595959 100%);
+  /* Chrome10+,Safari5.1+ */
+
+}
+body form fieldset {
+  border: 5px solid black;
+  border-radius: 5px;
+  padding-right: 75px;
+  text-align: right;
+}
+body form fieldset legend {
+  text-align: right;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.7em;
+  padding: 0 10px;
+  margin-bottom: 13px;
+}
+body form fieldset label {
+  font-weight: bold;
+  padding-right: 1px;
+}
+body form fieldset input {
+  margin-bottom: 7px;
+  padding: 0 15px;
+  border: none;
+  border-radius: 15px;
+  height: 36px;
+  background: -webkit-linear-gradient(top, #020202 5%, #cacaca 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  color: white;
+}
+body form fieldset button {
+  margin-top: 3px;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  border: 2px solid black;
+  padding: 2px 10px;
+  border-radius: 15px;
+  height: 37px;
+  background: -webkit-linear-gradient(top, #020202 2%, #ffffff 100%);
+  /* Chrome10+,Safari5.1+ */
+
+}
+body form fieldset button:hover {
+  background: -webkit-linear-gradient(top, #020202 2%, #cccccc 100%);
+  /* Chrome10+,Safari5.1+ */
+
+}
+
+#userWrapper {
+    margin: 0 auto;
+    width: 75%;
+}
+
+#wellcome{
+    color: #00ff00;
+    font-size: 25px;
+}
+
+#score{
+    color: #00ff00;
+    font-size: 25px;
+}
+
+#score span{
+    color: #000;
+    font-size: 25px;
+}
+
+#messages {
+    height: 150px;
+    overflow: hidden;
+}
+
+#messagesConteiner {
+    height: 100px;
+    overflow: scroll;
+}
+
+#logout-btn {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#gameField {
+    border: 1px solid black;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#gameField h2{
+    text-align: center;
+}
+
+#openGames{
+    display: inline-block;
+    width: 20%;
+    margin-right: 4%;
+}
+
+#playGame{
+    display: inline-block;
+    width: 50%;
+    margin-right: 4%;
+    border: 1px solid red;
+}
+
+#activeGames{
+    display: inline-block;
+    width: 20%;
+}
+
+.button {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+
+.in-progress {
+    background-color: green;
+    border-radius: 100px;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.sectionField {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+#battleField{
+    width: 470px;
+    margin: 20px auto;
+}
+
+.blueWarrior {
+    background-color: blue;
+}
+
+.blueRanger {
+    background-color: skyblue;
+}
+
+.redWarrior {
+    background-color: red;
+}
+
+.redRanger {
+    background-color: pink;
+}
+
+.selected {
+    background-color: green;
+}
+
+.secondSelected {
+    background-color: lemonchiffon;
+}
+
+#battleMenu ul li {
+    display: inline-block;
+}

@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\1.Въведение\Упражнение\1.IntroPrograming\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\1.Въведение\Упражнение\1.IntroPrograming\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\1.Въведение\Упражнение\1.IntroPrograming\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\1.Въведение\Упражнение\1.IntroPrograming\PrintCurrentDateAndTime\obj\Debug\PrintCurrentDateAndTime.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\1.Въведение\Упражнение\1.IntroPrograming\PrintCurrentDateAndTime\obj\Debug\PrintCurrentDateAndTime.pdb

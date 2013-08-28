@@ -1,0 +1,4 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\7.PrimeNumber\bin\7.PrimeNumber.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\7.PrimeNumber\bin\7.PrimeNumber.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\7.PrimeNumber\obj\Debug\7.PrimeNumber.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\3. Operators and Expressions\HW\OperatorsAndExpressions\7.PrimeNumber\obj\Debug\7.PrimeNumber.pdb

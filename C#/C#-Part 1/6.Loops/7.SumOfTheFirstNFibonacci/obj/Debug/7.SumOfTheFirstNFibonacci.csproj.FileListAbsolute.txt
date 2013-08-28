@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\7.SumOfTheFirstNFibonacci\bin\Debug\7.SumOfTheFirstNFibonacci.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\7.SumOfTheFirstNFibonacci\bin\Debug\7.SumOfTheFirstNFibonacci.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\7.SumOfTheFirstNFibonacci\bin\Debug\7.SumOfTheFirstNFibonacci.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\7.SumOfTheFirstNFibonacci\obj\Debug\7.SumOfTheFirstNFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\7.SumOfTheFirstNFibonacci\obj\Debug\7.SumOfTheFirstNFibonacci.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\7.SumOfTheFirstNFibonacci\obj\Debug\7.SumOfTheFirstNFibonacci.pdb

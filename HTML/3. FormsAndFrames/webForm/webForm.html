@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title>WebForm</title>
+	<link rel=StyleSheet href="style.css" type="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+	<table cellspacing="0" border="1px">
+		<tr>
+		<form>
+			<td class="firstCollon">
+				<label for="lastName"><p><strong>Last Name</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<input type="text" size="15" name="" value="Nakov" id="lastName" />
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="firstName"><p><strong>First Name</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<input type="text" size="15" name="" value="Svetlin" id="firstName">
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="adress"><p><strong>Address</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<textarea cols="22" rows="4" id="adress">17 Hristo Botev Str. floor 3, apt. 12</textarea>
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="city"><p><strong>City</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<input type="text" size="10" name="" value="Kaspichan" id="city">
+				<label for="state">State</label><input type="text" size="5" name="" value="" id="state">
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="zip"><p><strong>Zip/Postal Code</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<input type="text" name="" value="9325" id="zip">
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="country"><p><strong>Country</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<select name="contry" id="country">
+					<option value="1">Bulgaria</option>
+					<option value="2">England</option>
+					<option value="3">France</option>
+				<select>
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="phone"><p><strong>Phone <!--{-->&#123;contry code, area code, number&#125;<!--}--></strong></p></label>
+			</td>
+			<td class="secondCollon">
+				&#40;&#43;<input type="text" size="2" name="" value="359" id="phone">&#41;
+				<input type="text" size="8" name="" value="88">-
+				<input type="text" size="8" name="" value="8334343">
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="email"><p><strong>E-mail</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<input type="text" name="" value="nakov@kaspichan.org" id="email">
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="bd"><p><strong>Birth date</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				Month<input type="text" size="1" name="" value="06" id="bd">
+				Day<input type="text" name="" size="1" value="14">
+				Year &#40; 4 digit &#41;<input type="text" size="4" name="" value="1980">
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="gender"><p><strong>Gender</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<select name="gender" id="gender">
+					<option value="1">Male</option>
+					<option value="2">Female</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<p><strong>Staring date</strong></p>
+			</td>
+			<td class="secondCollon">
+				<input type="radio" name="date" value="Spring 2006" />Spring 2006
+				<input type="radio" name="date" value="Summer 2006" />Summer 2006
+			</td>
+		</tr>
+		<tr>
+			<td class="firstCollon">
+				<label for="comments"><p><strong>Comments/Questions</strong></p></label>
+			</td>
+			<td class="secondCollon">
+				<textarea cols="22" rows="5" id="comments">Please send me more information about the lodging.</textarea>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" id="button">
+				<input type="submit" name="" value="Submit">
+				<input type="reset" name="" value="Clear This Form">
+			</td>
+			</form>
+		</tr>
+	</table>
+</body>
+</html>

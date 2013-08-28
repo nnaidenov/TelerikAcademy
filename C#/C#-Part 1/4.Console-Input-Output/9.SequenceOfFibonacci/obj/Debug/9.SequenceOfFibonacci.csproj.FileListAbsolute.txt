@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\9.SequenceOfFibonacci\bin\Debug\9.SequenceOfFibonacci.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\9.SequenceOfFibonacci\bin\Debug\9.SequenceOfFibonacci.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\9.SequenceOfFibonacci\bin\Debug\9.SequenceOfFibonacci.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\9.SequenceOfFibonacci\obj\Debug\9.SequenceOfFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\9.SequenceOfFibonacci\obj\Debug\9.SequenceOfFibonacci.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\9.SequenceOfFibonacci\obj\Debug\9.SequenceOfFibonacci.pdb

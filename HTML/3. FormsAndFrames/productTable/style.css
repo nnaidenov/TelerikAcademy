@@ -1,0 +1,39 @@
+body {
+	font-size: 12px;
+}
+
+thead {
+	text-align: left;
+	background-color: #E9E3E8;
+}
+
+tfoot {
+	background-color: #E9E3E8;
+}
+
+table {
+	border: 1px solid #ccc;
+    border-collapse:collapse;
+}
+
+th, td  {
+	border: 1px solid #ccc;
+	padding-right: 30px;
+	font-weight: normal;
+}
+
+p {
+	float: right;
+	display: inline;
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	padding-right: 2px;
+}
+
+#nn {
+	margin-right: 15px;
+}

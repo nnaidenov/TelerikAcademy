@@ -1,0 +1,4 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\5.SayInEnglish\bin\5.SayInEnglish.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\5.SayInEnglish\bin\5.SayInEnglish.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\5.SayInEnglish\obj\Debug\5.SayInEnglish.dll
+C:\Users\N.Naidenov\Dropbox\Telerik\Web track\JavaScript\JavaScript Part I\4.ConditionalStatements\HW\ConditionalStatements\5.SayInEnglish\obj\Debug\5.SayInEnglish.pdb

@@ -1,0 +1,10 @@
+Line 1: <?php
+Line 2:    # this is a lonely comment line
+Line 3:    /* 
+Line 4:       $this_is_not_a_variable
+Line 5:       "And this is not a string"
+Line 6:    */
+Line 7:    $just = '"code"...{$valid_var}'; // This is an one-line comment
+Line 8:    $another = "/* This is not a comment... */";
+Line 9:    $Inception = "// ... neither \"this\", but this is a 'variable': $var";
+Line 10: ?>

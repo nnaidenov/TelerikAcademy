@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<a href="#" id="btn-check-prime" onclick="onClick()">Action</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var array = ['b', 'g'];
+	        var arrayTwo = [ 'b', 'a' ];
+	        var same = true;
+
+	        for (var i = 0; i < array.length; i++)
+	        {
+	            if (array[i] < arrayTwo[i]) // Array 1 is First
+	            {
+	                jsConsole.writeLine("First Array is lexicographically First!");
+	                same = false;
+	                break;
+	            }
+	            else if (array[i] > arrayTwo[i]) // Array 2 is First
+	            {
+	                jsConsole.writeLine("Second Array is lexicographically First!");
+	                same = false;
+	                break;
+	            }
+	        }
+	        //Print if Arrays are Same
+	        if (same)
+	        {
+	            jsConsole.writeLine("Arrays are lexicographically Same!");
+	        }
+	    }
+	</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<input type="text" id="tb-number" />
+	<a href="#" id="btn-check-prime" onclick="onClick()">Clock</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var seq = [1, 5, 6, 15, 3, 14, 7, 4];
+	        var max = seq[0];
+	        var min = seq[0];
+
+	        for (var i = 0; i <= seq.length-1; i++) {
+	            if (seq[i] >= max) {
+	                max = seq[i];
+	            }
+	            else if(seq[i] <= min)
+	            {
+	                min = seq[i];
+	            }
+	        }
+	        jsConsole.writeLine("Max: " + max);
+	        jsConsole.writeLine("Min: " + min);
+	    }
+	</script>
+</body>
+</html>

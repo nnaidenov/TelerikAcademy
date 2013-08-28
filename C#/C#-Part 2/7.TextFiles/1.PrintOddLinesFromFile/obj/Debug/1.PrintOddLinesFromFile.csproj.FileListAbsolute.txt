@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\1.PrintOddLinesFromFile\bin\Debug\1.PrintOddLinesFromFile.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\1.PrintOddLinesFromFile\bin\Debug\1.PrintOddLinesFromFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\1.PrintOddLinesFromFile\bin\Debug\1.PrintOddLinesFromFile.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\1.PrintOddLinesFromFile\obj\Debug\1.PrintOddLinesFromFile.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\1.PrintOddLinesFromFile\obj\Debug\1.PrintOddLinesFromFile.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\1.PrintOddLinesFromFile\obj\Debug\1.PrintOddLinesFromFile.pdb

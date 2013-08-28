@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\BinSerch\bin\Debug\BinSerch.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\BinSerch\bin\Debug\BinSerch.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\BinSerch\bin\Debug\BinSerch.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\BinSerch\obj\Debug\BinSerch.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\BinSerch\obj\Debug\BinSerch.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\BinSerch\obj\Debug\BinSerch.pdb

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<input type="text" id="tb-number" />
+	<a href="#" id="btn-check-prime" onclick="onCheckPrimeBtnClick()">Loop For</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onCheckPrimeBtnClick() {
+
+	        var number = jsConsole.readInteger("#tb-number");
+			
+	        for(var i=0; i < number; i++){
+	            jsConsole.writeLine(i+1);
+	        }
+	    }
+	</script>
+</body>
+</html>

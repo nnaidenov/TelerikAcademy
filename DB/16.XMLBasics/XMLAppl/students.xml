@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="studentStyle.xsl"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Georgi Geirgiev</name>
+    <gender>male</gender>
+    <birthDate>12.12.1900</birthDate>
+    <phone>0880358965</phone>
+    <email>gtest@mail.sdf</email>
+    <course>2</course>
+    <specialty>Game Developement</specialty>
+    <facultyNumber>521541631453</facultyNumber>
+    <takenExams>
+      <examName>DB</examName>
+      <tutor>Nakov</tutor>
+      <score>105</score>
+    </takenExams>
+    <enrollment>
+      <date>25.02.2013</date>
+      <score>99</score>
+    </enrollment>
+    <endorsement>
+      <isTrue>true</isTrue>
+    </endorsement>
+  </student>
+  <student>
+    <name>Nikolay Kostov</name>
+    <gender>male</gender>
+    <birthDate>01.05.1800</birthDate>
+    <phone>025485236</phone>
+    <email>ntest@mail.sdf</email>
+    <course>3</course>
+    <specialty>Web developer</specialty>
+    <facultyNumber>521545831400</facultyNumber>
+    <takenExams>
+      <examName>JavaScript</examName>
+      <tutor>Minkov</tutor>
+      <score>52</score>
+    </takenExams>
+    <enrollment>
+      <date>26.03.2013</date>
+      <score>12</score>
+    </enrollment>
+    <endorsement>
+      <isTrue>true</isTrue>
+    </endorsement>
+  </student>
+</students>

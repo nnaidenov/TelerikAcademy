@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CheckPointCircle</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-text">X: </label>
+	<input type="text" id="x" />
+    <label for="tb-text">Y: </label>
+	<input type="text" id="y" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">Point in Circle?</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+	    function onCheckNumbersButtonClick() {
+	        var x = jsConsole.readFloat("#x");
+	        var y = jsConsole.readFloat("#y");
+	        var r = 5;
+
+	        var inCircle = (x * x + y * y) <= r * r;
+
+	        if (inCircle == true) {
+	            jsConsole.writeLine("Точките X и Y са в окръжността!");
+	        }
+	        else {
+	            jsConsole.writeLine("Точките X и Y не са в окръжността!");
+	        }
+	    }
+	</script>
+</body>
+</html>

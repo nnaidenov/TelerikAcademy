@@ -1,0 +1,9 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\1.ReadNumbersAndSumIt\bin\Debug\1.ReadNumbersAndSumIt.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\1.ReadNumbersAndSumIt\bin\Debug\1.ReadNumbersAndSumIt.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\1.ReadNumbersAndSumIt\bin\Debug\1.ReadNumbersAndSumIt.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\1.ReadNumbersAndSumIt\obj\Debug\1.ReadNumbersAndSumIt.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\1.ReadNumbersAndSumIt\obj\Debug\1.ReadNumbersAndSumIt.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\1.ReadNumbersAndSumIt\obj\Debug\1.ReadNumbersAndSumIt.pdb
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\4.Console-Input-Output\1.ReadNumbersAndSumIt\bin\Debug\1.ReadNumbersAndSumIt.exe.config
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\4.Console-Input-Output\1.ReadNumbersAndSumIt\obj\Debug\1.ReadNumbersAndSumIt.exe
+C:\Users\N.Naidenov\Documents\TelerikAcademy\TelerikAcademy\C#\C#-Part 1\4.Console-Input-Output\1.ReadNumbersAndSumIt\obj\Debug\1.ReadNumbersAndSumIt.pdb

@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\ShapeTask\bin\Debug\ShapeTask.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\ShapeTask\obj\Debug\ShapeTask.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\ShapeTask\bin\Debug\ShapeTask.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\ShapeTask\bin\Debug\ShapeTask.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\ShapeTask\obj\Debug\ShapeTask.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\6.OOPFundamentalPrinciplesPartII\OOPPrinciplesII\ShapeTask\obj\Debug\ShapeTask.pdb

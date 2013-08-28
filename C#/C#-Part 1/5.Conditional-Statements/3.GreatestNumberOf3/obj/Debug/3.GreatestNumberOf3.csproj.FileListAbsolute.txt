@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\3.GreatestNumberOf3\bin\Debug\3.GreatestNumberOf3.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\3.GreatestNumberOf3\bin\Debug\3.GreatestNumberOf3.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\3.GreatestNumberOf3\bin\Debug\3.GreatestNumberOf3.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\3.GreatestNumberOf3\obj\Debug\3.GreatestNumberOf3.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\3.GreatestNumberOf3\obj\Debug\3.GreatestNumberOf3.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\3.GreatestNumberOf3\obj\Debug\3.GreatestNumberOf3.pdb

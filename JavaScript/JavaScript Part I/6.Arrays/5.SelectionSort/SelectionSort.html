@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<a href="#" id="btn-check-prime" onclick="onClick()">Action</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var array = [2, 1, -6, 3, -5, 0, 12];
+	        var smallest = Number.MAX_VALUE;
+
+	        // Pring Array UnSort
+	        for (var a in array) {
+	            jsConsole.write(array[a] + ' ');
+	        }
+
+	        // Sort Array
+	        for (var i = 0; i < array.length; i++) {
+	            for (var j = i; j < array.length; j++) {
+	                if (array[j] < smallest) {
+	                    smallest = array[j];
+	                    array[j] = array[i];
+	                    array[i] = smallest;
+	                }
+	            }
+	            smallest = Number.MAX_VALUE;
+	        }
+
+	        jsConsole.writeLine();
+
+	        // Print SortArray
+	        for (var a in array) {
+	            jsConsole.write(array[a] + ' ');
+	        }
+	    }
+	</script>
+</body>
+</html>

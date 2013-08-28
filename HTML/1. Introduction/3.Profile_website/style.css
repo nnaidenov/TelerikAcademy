@@ -1,0 +1,19 @@
+html, body {
+	background-color: #cce0ff;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li.menu{
+	display: inline;
+	padding-right: 60px;
+}
+
+dt {
+display: inline;}
+
+span {
+font-style: italic;
+}

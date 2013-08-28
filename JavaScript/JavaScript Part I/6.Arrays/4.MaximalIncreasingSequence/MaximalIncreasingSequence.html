@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<a href="#" id="btn-check-prime" onclick="onClick()">Action</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+
+	        var array = [1, 2, 3, 4, 12, 6, 7, 8];
+
+	        var newArr = new Array(10);
+	        var maxSeq = 1;
+	        var seq = 1;
+
+	        for (var i = 0; i < array.length - 1; i++) {
+	            // check for New Seq
+	            if (array[i] < array[i + 1]) {
+	                seq++;
+
+	                if (seq == 2) {
+	                    startSeq = i;
+	                }
+	                if (seq > maxSeq)
+	                {
+	                    for (var j = startSeq; j < seq + startSeq; j++)
+	                    {
+                            if (j == startSeq)
+	                        {
+                                newArr = [];
+	                        }
+	                        newArr.push(array[j]);
+                        }
+                    }
+	            }
+	            else // Stop Seq
+	            {
+	                if (seq > maxSeq) {
+	                    for (var j = startSeq; j < seq + startSeq+1; j++) {
+	                        if (j == startSeq) {
+	                            newArr = [];
+	                        }
+	                        newArr.push(array[j]);
+	                    }
+	                    maxSeq = seq;
+	                    startSeq = 0;
+	                }
+	                seq = 1;
+	            }
+	        }
+
+	        for (var a = 0; a<newArr.length-1;a++) {
+	            jsConsole.writeLine(newArr[a]);
+	        }
+	    }
+	</script>
+</body>
+</html>

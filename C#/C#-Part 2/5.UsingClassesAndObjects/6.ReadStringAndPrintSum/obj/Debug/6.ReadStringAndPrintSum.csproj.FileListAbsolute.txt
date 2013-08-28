@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\6.ReadStringAndPrintSum\bin\Debug\6.ReadStringAndPrintSum.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\6.ReadStringAndPrintSum\bin\Debug\6.ReadStringAndPrintSum.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\6.ReadStringAndPrintSum\bin\Debug\6.ReadStringAndPrintSum.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\6.ReadStringAndPrintSum\obj\Debug\6.ReadStringAndPrintSum.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\5.UsingClassesAndObjects\HW\UsingClassesAndObjects\6.ReadStringAndPrintSum\obj\Debug\6.ReadStringAndPrintSum.pdb

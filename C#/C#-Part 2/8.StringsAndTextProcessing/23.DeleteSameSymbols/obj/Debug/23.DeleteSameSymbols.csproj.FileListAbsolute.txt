@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\23.DeleteSameSymbols\bin\Debug\23.DeleteSameSymbols.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\23.DeleteSameSymbols\bin\Debug\23.DeleteSameSymbols.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\23.DeleteSameSymbols\bin\Debug\23.DeleteSameSymbols.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\23.DeleteSameSymbols\obj\Debug\23.DeleteSameSymbols.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\8.StringsAndTextProcessing\HW\StringsandTextProcessing\23.DeleteSameSymbols\obj\Debug\23.DeleteSameSymbols.pdb

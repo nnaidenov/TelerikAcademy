@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\13.ReadCountAndWrite\bin\Debug\13.ReadCountAndWrite.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\13.ReadCountAndWrite\bin\Debug\13.ReadCountAndWrite.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\13.ReadCountAndWrite\bin\Debug\13.ReadCountAndWrite.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\13.ReadCountAndWrite\obj\Debug\13.ReadCountAndWrite.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\13.ReadCountAndWrite\obj\Debug\13.ReadCountAndWrite.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\13.ReadCountAndWrite\obj\Debug\13.ReadCountAndWrite.pdb

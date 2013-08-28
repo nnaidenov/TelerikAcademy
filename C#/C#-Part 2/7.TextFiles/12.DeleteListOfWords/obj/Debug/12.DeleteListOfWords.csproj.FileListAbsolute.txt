@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\12.DeleteListOfWords\bin\Debug\12.DeleteListOfWords.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\12.DeleteListOfWords\bin\Debug\12.DeleteListOfWords.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\12.DeleteListOfWords\bin\Debug\12.DeleteListOfWords.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\12.DeleteListOfWords\obj\Debug\12.DeleteListOfWords.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\12.DeleteListOfWords\obj\Debug\12.DeleteListOfWords.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\7.TextFiles\HW\TextFiles\12.DeleteListOfWords\obj\Debug\12.DeleteListOfWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\LongestIncreasingSeq\bin\Debug\LongestIncreasingSeq.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\LongestIncreasingSeq\bin\Debug\LongestIncreasingSeq.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\LongestIncreasingSeq\bin\Debug\LongestIncreasingSeq.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\LongestIncreasingSeq\obj\Debug\LongestIncreasingSeq.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\LongestIncreasingSeq\obj\Debug\LongestIncreasingSeq.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\LongestIncreasingSeq\obj\Debug\LongestIncreasingSeq.pdb

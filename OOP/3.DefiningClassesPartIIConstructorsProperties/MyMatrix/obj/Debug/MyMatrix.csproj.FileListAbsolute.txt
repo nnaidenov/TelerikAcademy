@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\MyMatrix\bin\Debug\MyMatrix.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\MyMatrix\bin\Debug\MyMatrix.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\MyMatrix\bin\Debug\MyMatrix.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\MyMatrix\obj\Debug\MyMatrix.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\MyMatrix\obj\Debug\MyMatrix.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\Programing Track\OOP\Lecture\3.DefiningClassesPartIIConstructorsProperties\HW\DefiningClassesII\MyMatrix\obj\Debug\MyMatrix.csprojResolveAssemblyReference.cache

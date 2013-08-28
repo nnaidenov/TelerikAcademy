@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ThirdDigit</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-text">Number: </label>
+	<input type="text" id="digit" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">Go</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+	    function onCheckNumbersButtonClick() {
+	        var digit = jsConsole.readFloat("#digit");
+	        var divided = Math.floor(digit / 100)%10;
+	        jsConsole.writeLine(divided == 7);
+	    }
+	</script>
+</body>
+</html>

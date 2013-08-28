@@ -1,0 +1,1 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\4.CalculateFactorilaNDivisibleK\bin\Debug\4.CalculateFactorilaNDivisibleK.exe.config

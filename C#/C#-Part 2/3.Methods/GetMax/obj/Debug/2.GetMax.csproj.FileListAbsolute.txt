@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\bin\Debug\GetMax.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\bin\Debug\GetMax.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\bin\Debug\GetMax.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\obj\Debug\GetMax.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\obj\Debug\GetMax.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\GetMax\obj\Debug\2.GetMax.csprojResolveAssemblyReference.cache

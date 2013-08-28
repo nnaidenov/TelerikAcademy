@@ -1,0 +1,70 @@
+/* 
+    Document   : style
+    Created on : 2013-1-22, 22:04:22
+    Author     : N.Naidenov
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+a{
+    color: #86d9f8;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+hr{
+    background-color: black;
+    height: 2px;
+    border: none;
+    width: 95%;
+}
+
+input{
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    text-align: center;
+    width: 625px;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display: inline;
+}
+
+#asaid{
+    padding-top: 60px;
+    width: 150px;
+    float: right;
+}
+
+section{
+    width: 470px;
+}
+
+fieldset{
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 2px;
+    display: inline;
+}
+
+fieldset img{
+    float: left;
+    height: 70px;
+}
+
+fieldset .preLast{
+    padding: 0 25px 0 10px;
+    display: inline;
+}
+
+fieldset .last{
+    display: inline;
+}
+

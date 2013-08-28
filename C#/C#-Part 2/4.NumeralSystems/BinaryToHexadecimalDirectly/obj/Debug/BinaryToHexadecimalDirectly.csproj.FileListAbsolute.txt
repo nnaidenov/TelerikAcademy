@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToHexadecimalDirectly\bin\Debug\BinaryToHexadecimalDirectly.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToHexadecimalDirectly\bin\Debug\BinaryToHexadecimalDirectly.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToHexadecimalDirectly\bin\Debug\BinaryToHexadecimalDirectly.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToHexadecimalDirectly\obj\Debug\BinaryToHexadecimalDirectly.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\4.NumeralSystems\HW\NumeralSystems\BinaryToHexadecimalDirectly\obj\Debug\BinaryToHexadecimalDirectly.pdb

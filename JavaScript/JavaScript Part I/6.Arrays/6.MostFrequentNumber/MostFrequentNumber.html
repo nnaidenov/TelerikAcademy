@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Loops - while loop</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<a href="#" id="btn-check-prime" onclick="onClick()">Action</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onClick() {
+	        var array = [4, 1, 1, 4, 2, 3, 1, 1, 2, 1, 9, 3, 4, 4, 4];
+	        var mostFrN = 0;
+	        var curFrN = 0;
+	        var maxTimes = 0;
+	        var curTimes = 1;
+
+	        for (var i = 0; i < array.length; i++) {
+	            for (var j = i + 1; j < array.length; j++) {
+	                //Compare two numbers
+	                if (array[i] == array[j]) {
+	                    curTimes++;
+	                    curFrN = array[i];
+	                    if (j == array.length - 1) {
+	                        if (curTimes > maxTimes) //Change MaxTimes
+	                        {
+	                            maxTimes = curTimes;
+	                            mostFrN = curFrN;
+	                        }
+	                    }
+	                }
+	                else {
+	                    if (curTimes > maxTimes) //Change MaxTimes
+	                    {
+	                        maxTimes = curTimes;
+	                        mostFrN = curFrN;
+	                    }
+	                }
+	            }
+	            curTimes = 1;
+	        }
+
+	        //Print Number end How Many times
+	        jsConsole.write(mostFrN + " (" + maxTimes + " times)");
+	    }
+	</script>
+</body>
+</html>

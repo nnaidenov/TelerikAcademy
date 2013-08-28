@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>GreaterNumberExchanges</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="tb-text">Number 1: </label>
+	<input type="text" id="numberOne" />
+    <label for="tb-text">Number 2: </label>
+	<input type="text" id="numberTwo" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">Greater Number is...</a>
+	<div id="console">
+	</div>
+
+	<script src="scripts/js-console.js">	  
+	</script>
+
+	<script>
+	    function onCheckNumbersButtonClick() {
+	        var first = jsConsole.readFloat("#numberOne");
+	        var second = jsConsole.readFloat("#numberTwo");
+
+	        if (first > second) {
+	            var middle = first;
+	            first = second;
+	            second = middle;
+	            jsConsole.writeLine("First number " + first + " is greater than second " + second + ". Exchange variables! - Done!");
+	        }
+	        else {
+	            jsConsole.writeLine("Second number " + second + " is greater than first " + first + ".");
+	        }
+	    }
+	</script>
+</body>
+</html>

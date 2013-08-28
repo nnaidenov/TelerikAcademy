@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaxSumWithOneLoop\bin\Debug\MaxSumWithOneLoop.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaxSumWithOneLoop\bin\Debug\MaxSumWithOneLoop.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaxSumWithOneLoop\bin\Debug\MaxSumWithOneLoop.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaxSumWithOneLoop\obj\Debug\MaxSumWithOneLoop.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaxSumWithOneLoop\obj\Debug\MaxSumWithOneLoop.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\1.Arrays\HW\Array\MaxSumWithOneLoop\obj\Debug\MaxSumWithOneLoop.csprojResolveAssemblyReference.cache

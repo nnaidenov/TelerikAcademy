@@ -1,0 +1,81 @@
+/* 
+    Document   : style
+    Created on : 2013-1-21, 12:35:24
+    Author     : N.Naidenov
+    Description:
+        Purpose of the stylesheet follows.
+*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: #292929;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Times New Roman";
+    padding: 15px 0 40px 10px;
+}
+
+section{
+    width: 404px;
+    height: 538px;
+    background-color: #eee;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+section article{
+    border: 1px solid #a6a6a6;
+    width: 380px;
+    height: 120px;
+    margin-bottom: 35px;
+    margin-left: 10px;
+}
+
+section article img{
+    float: left;
+    margin: 15px;
+    border: 1px solid #a6a6a6;
+}
+
+section article p{
+    width: 375px;
+    color: #292929;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+section article p span{
+    color: #292929;
+    font-weight: bold;
+}
+
+section article button{
+    color: white;
+    padding: 5px 7px 5px 23px;
+    margin-top: 20px;
+}
+
+section article button:hover{
+    cursor: pointer;
+}
+
+section article button:nth-child(2n+1){
+    background: none;
+    background-image: url("img/buttonOne.png");
+    border: none;
+    margin-left: 75px;
+}
+
+section article button:nth-child(2n){
+    background: none;
+    background-image: url("img/buttonTwo.png");
+    border: none;
+}

@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixB\bin\Debug\FillsMatrixB.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixB\bin\Debug\FillsMatrixB.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixB\bin\Debug\FillsMatrixB.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixB\obj\Debug\FillsMatrixB.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\2.MultidimensionalArrays\HW\MultidimensionalArrays\FillsMatrixB\obj\Debug\FillsMatrixB.pdb

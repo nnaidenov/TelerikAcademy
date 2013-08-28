@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\8.PrintsNumbersInInterval\bin\Debug\8.PrintsNumbersInInterval.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\8.PrintsNumbersInInterval\bin\Debug\8.PrintsNumbersInInterval.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\8.PrintsNumbersInInterval\bin\Debug\8.PrintsNumbersInInterval.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\8.PrintsNumbersInInterval\obj\Debug\8.PrintsNumbersInInterval.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\8.PrintsNumbersInInterval\obj\Debug\8.PrintsNumbersInInterval.pdb

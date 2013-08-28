@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>GreatestNumberOf5</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		#number {
+			border: 1px solid black;
+			padding: 5px 15px;
+			background-color: black;
+			color: white;
+			font-family: Consolas;
+			margin-bottom: 5px;
+		}
+
+		a {
+			color: black;
+			border: 1px solid black;
+			padding: 5px 15px;
+			text-decoration: none;
+			display: inline-block;
+			margin: 15px 0;
+		}
+
+			a:hover {
+				text-decoration: underline;
+			}
+	</style>
+</head>
+<body>
+	<label for="n1">n1: </label>
+	<input type="text" id="n1" />
+    <label for="n2">n2: </label>
+	<input type="text" id="n2" />
+    <label for="n3">n3: </label>
+	<input type="text" id="n3" />
+    <label for="n4">n4: </label>
+	<input type="text" id="n4" />
+    <label for="n5">n5: </label>
+	<input type="text" id="n5" />
+	<br />
+	<a href="#" onclick="onCheckNumbersButtonClick()">Greatest number is...</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+
+	    function onCheckNumbersButtonClick() {
+
+	        var a = jsConsole.readFloat("#n1");
+	        var b = jsConsole.readFloat("#n2");
+	        var c = jsConsole.readFloat("#n3");
+	        var d = jsConsole.readFloat("#n4");
+	        var e = jsConsole.readFloat("#n5");
+
+	        if ((a >= b) && (a >= c) && (a >= d) && (a >= e)) {
+	            jsConsole.writeLine("The greatest value is : " + a);
+	        }
+	        else if ((b >= a) && (b >= c) && (b >= d) && (b >= e)) {
+	            jsConsole.writeLine("The greatest value is : " + b);
+	        }
+	        else if ((c >= a) && (c >= b) && (c >= d) && (c >= e)) {
+	            jsConsole.writeLine("The greatest value is : " + c);
+	        }
+	        else if ((d >= a) && (d >= b) && (d >= c) && (d >= e)) {
+	            jsConsole.writeLine("The greatest value is : " + d);
+	        }
+	        else {
+	            jsConsole.writeLine("The greatest value is : " + e);
+	        }
+	    }
+	</script>
+</body>
+</html>

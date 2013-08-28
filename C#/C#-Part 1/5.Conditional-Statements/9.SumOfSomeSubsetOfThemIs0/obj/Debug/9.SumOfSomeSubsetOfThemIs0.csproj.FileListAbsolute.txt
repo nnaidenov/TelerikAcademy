@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\9.SumOfSomeSubsetOfThemIs0\bin\Debug\9.SumOfSomeSubsetOfThemIs0.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\9.SumOfSomeSubsetOfThemIs0\obj\Debug\9.SumOfSomeSubsetOfThemIs0.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\9.SumOfSomeSubsetOfThemIs0\bin\Debug\9.SumOfSomeSubsetOfThemIs0.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\9.SumOfSomeSubsetOfThemIs0\bin\Debug\9.SumOfSomeSubsetOfThemIs0.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\9.SumOfSomeSubsetOfThemIs0\obj\Debug\9.SumOfSomeSubsetOfThemIs0.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\5.ConditionalStatements\homework\ConditionalStatements\9.SumOfSomeSubsetOfThemIs0\obj\Debug\9.SumOfSomeSubsetOfThemIs0.pdb

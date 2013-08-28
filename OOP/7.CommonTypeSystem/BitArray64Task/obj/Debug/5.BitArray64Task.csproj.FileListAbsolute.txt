@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\BitArray64Task\bin\Debug\BitArray64Task.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\BitArray64Task\bin\Debug\BitArray64Task.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\BitArray64Task\bin\Debug\BitArray64Task.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\BitArray64Task\obj\Debug\5.BitArray64Task.csprojResolveAssemblyReference.cache
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\BitArray64Task\obj\Debug\BitArray64Task.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\TelerikAcademyHW\Programing Track\OOP\7.CommonTypeSystem\CTS\BitArray64Task\obj\Debug\BitArray64Task.pdb

@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\13.HowManyZeros\bin\Debug\13.HowManyZeros.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\13.HowManyZeros\bin\Debug\13.HowManyZeros.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\13.HowManyZeros\bin\Debug\13.HowManyZeros.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\13.HowManyZeros\obj\Debug\13.HowManyZeros.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\13.HowManyZeros\obj\Debug\13.HowManyZeros.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\6.Loops\homework\Loops\13.HowManyZeros\obj\Debug\13.HowManyZeros.csprojResolveAssemblyReference.cache

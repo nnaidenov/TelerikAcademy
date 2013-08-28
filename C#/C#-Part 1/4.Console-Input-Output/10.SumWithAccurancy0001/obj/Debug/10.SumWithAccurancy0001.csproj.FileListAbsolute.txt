@@ -1,0 +1,5 @@
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\10.SumWithAccurancy0001\bin\Debug\10.SumWithAccurancy0001.exe.config
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\10.SumWithAccurancy0001\bin\Debug\10.SumWithAccurancy0001.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\10.SumWithAccurancy0001\bin\Debug\10.SumWithAccurancy0001.pdb
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\10.SumWithAccurancy0001\obj\Debug\10.SumWithAccurancy0001.exe
+C:\Users\N.Naidenov\Desktop\TelerikAcademy\C# part 1\4.ConsoleInputOutput\homework\1.ReadNumbersAndSumIt\10.SumWithAccurancy0001\obj\Debug\10.SumWithAccurancy0001.pdb

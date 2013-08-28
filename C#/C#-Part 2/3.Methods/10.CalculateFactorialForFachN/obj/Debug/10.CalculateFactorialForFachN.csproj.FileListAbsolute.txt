@@ -1,0 +1,6 @@
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\10.CalculateFactorialForFachN\bin\Debug\10.CalculateFactorialForFachN.exe.config
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\10.CalculateFactorialForFachN\bin\Debug\10.CalculateFactorialForFachN.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\10.CalculateFactorialForFachN\bin\Debug\10.CalculateFactorialForFachN.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\10.CalculateFactorialForFachN\obj\Debug\10.CalculateFactorialForFachN.exe
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\10.CalculateFactorialForFachN\obj\Debug\10.CalculateFactorialForFachN.pdb
+C:\Users\N.Naidenov\Dropbox\Telerik\C#\C# II\Lectures\3.Methods\HW\Method\10.CalculateFactorialForFachN\obj\Debug\10.CalculateFactorialForFachN.csprojResolveAssemblyReference.cache

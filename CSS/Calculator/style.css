@@ -1,0 +1,288 @@
+/* 
+    Document   : style2
+    Created on : 2013-1-15, 21:15:01
+    Author     : N.Naidenov
+    Description:
+        Purpose of the stylesheet follows.
+*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+    margin-top: 100px;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    padding: 0 2px 0 2px;
+    color: black;
+    font-size: 10px;
+	border: 1px;
+	text-align: center;
+}
+
+a:hover{
+    text-decoration: none;
+    padding: 0 2px 0 2px;
+    color: black;
+    font-size: 10px;
+	border: 1px solid #c7cdde;
+	border-radius: 2px;
+	text-align: center;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+li{
+	display: inline;
+	text-decoration: none;
+}
+
+ul{
+    margin: 0px;
+    padding: 0;
+}
+
+button
+{
+    width: 25px;
+    height: 18px;
+    background: none;
+    cursor: pointer;
+    font-family : 'voltaeftu-regular',Times New Roman;
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#calc{
+    margin: 0 auto;
+    width: 420px;
+    height: 415px;
+    background: #bddcfb;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#header{
+    width: 410px;
+    height: 25px;
+}
+
+#header img{
+    padding: 5px 7px 0 8px;    
+    float: left;
+}
+
+p{
+    display: inline;
+    font-size: 15px;
+    padding-top: 5px;
+    text-shadow: 0px 0px 5px white;
+}
+
+#windowsOpt{
+    border: 1px solid white;
+    border-top: none;
+    float: right;
+    height: 18px;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+}
+
+        #windowsOpt li{
+            list-style: none;
+        }
+
+        #min{
+            width: 25px;
+            height: 18px;
+            border-radius: 0 0 0 4px; 
+            border-right: 1px solid white;
+            float: left;
+			background-color: #b1c3da;
+			background: -moz-linear-gradient(100% 100% 90deg, #e7f1fa, #b1c3da);
+			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e7f1fa), to(#b1c3da));
+			background: -webkit-linear-gradient(#e7f1fa,   #b1c3da);
+			background: -o-linear-gradient(#e7f1fa, #b1c3da);
+        }
+
+        #max{
+            width: 25px;
+            height: 18px;
+            border-right: 1px solid white;
+            float: left;
+			background-color: #b1c3da;
+			background: -moz-linear-gradient(100% 100% 90deg, #e7f1fa, #b1c3da);
+			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e7f1fa), to(#b1c3da));
+			background: -webkit-linear-gradient(#e7f1fa,   #b1c3da);
+			background: -o-linear-gradient(#e7f1fa, #b1c3da);
+        }
+
+        #close{
+            width: 48px;
+            height: 18px;
+            border-radius: 0 0 4px 0; 
+            float: left;
+			background-color: #cf4532;
+			background: -moz-linear-gradient(100% 100% 90deg, #dbada8, #cf4532);
+			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#dbada8), to(#cf4532));
+			background: -webkit-linear-gradient(#dbada8,   #cf4532);
+			background: -o-linear-gradient(#dbada8, #cf4532);
+        }
+		
+		
+
+#menu{
+    margin: 7px 0 0 5px;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    border: 1px solid #c7cdde;
+    width: 405px;
+    height: 15px;
+    line-height: 15px;
+	background: #dfe4f4;
+    background: -moz-linear-gradient(100% 100% 90deg, #fff, #dfe4f4);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#dfe4f4));
+    background: -webkit-linear-gradient(#fff,   #dfe4f4);
+    background: -o-linear-gradient(#fff, #dfe4f4);
+}
+
+#calc_body{
+    width: 409px;
+    height: 355px;
+    border: 1px solid #7e8b9a;
+    margin: 25px 0 0 5px;
+    background: -moz-linear-gradient(100% 15% 90deg, #d9e4f1, #edf4fc);
+    background: -webkit-linear-gradient(#edf4fc,   #d9e4f1);
+    background: -o-linear-gradient(#edf4fc, #d9e4f1);
+}
+
+#display{
+    width: 380px;
+    height: 50px;
+    margin: 10px 0 0 13px;
+    border: 1px solid #9ca9b8;
+    background: -moz-linear-gradient(100% 100% 90deg, #e4eefb, #fff);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e4eefb), to(#fff));
+    background: -webkit-linear-gradient(#e4eefb,   #fff);
+    background: -o-linear-gradient(#e4eefb, #fff);
+}
+
+	#display input{
+		background: none;
+		width: 370px;
+		height: 25px;
+		border: none;
+		text-align: right;
+		margin: 2px;
+		line-height: 25px;
+		margin-top: 13px;
+		font-size: 25px;
+	}
+
+#bin_screen{
+    width: 373px;
+    height: 60px;
+    margin: 10px 0 0 13px;
+    padding-left: 7px;
+    padding-top: 5px;
+    border: 1px solid #9ca9b8;
+    background: #d9e4f1;
+    border-radius: 5px;
+    line-height: 11px;
+    font-family: consolas; 
+}
+
+.space{
+    padding-right: 18px;
+    font-size: 12px;
+}
+
+
+#keys{
+    margin:  5px 0 0 60px;
+}
+
+	#keys button{
+		font-family: consolas;
+		margin: 0 4px 5px 0;
+		width: 30px;
+		height: 30px;
+		color: #375996;
+		line-height: 13px;
+		font-size: 13px;
+		border: 1px solid #95a4b6;
+		font-weight: bold;
+		background: #f2f6f8; /* Old browsers */
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background: -moz-linear-gradient(top,  #f2f6f8 0%, #d8e1e7 50%, #b5c6d0 51%, #e0eff9 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f6f8), color-stop(50%,#d8e1e7), color-stop(51%,#b5c6d0), color-stop(100%,#e0eff9)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 50%,#b5c6d0 51%,#e0eff9 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 50%,#b5c6d0 51%,#e0eff9 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 50%,#b5c6d0 51%,#e0eff9 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #f2f6f8 0%,#d8e1e7 50%,#b5c6d0 51%,#e0eff9 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9',GradientType=0 ); /* IE6-8 */
+	}
+	
+		#keys button:hover{
+			border: 1px solid #f0d734;
+			background: -moz-linear-gradient(100% 100% 90deg, #fbd47d, #fef4c5);
+			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fef4c5), to(#fbd47d));
+			background: -webkit-linear-gradient(#fef4c5,   #fbd47d);
+			background: -o-linear-gradient(#fef4c5, #fbd47d);
+		}
+		#keys .noButton {
+			background: none;
+		}
+
+			#keys .noButton:hover{
+				border: 1px solid #95a4b6;
+				background: none;
+			}
+
+#tall{
+    display: inline;
+    
+}
+	#tall button{
+		float: right;
+		margin: 0 14px 0 0px;
+		width: 30px;
+		height: 65px;
+	}
+
+#long{
+        display: inline;
+}
+
+	#long button{
+		width: 70px;
+		height: 30px;
+	}
+
+#leftBox{
+        float: left;
+        margin: 5px 4px 0 13px;
+        height: 200px;
+}
+
+.radioButts{
+    padding-bottom: 1px;
+    border: 1px solid #95a4b6;
+    border-radius: 5px;
+    width: 75px;
+    font-family: consolas;
+    margin: 0 5px 5px 0;
+    color: #375996;
+    font-size: 15px;
+    line-height: 24px;
+}

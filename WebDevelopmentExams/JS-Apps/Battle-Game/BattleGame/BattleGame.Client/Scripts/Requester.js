@@ -4,14 +4,6 @@
 var Requester = function (url) {
     var rootUrl = url;
 
-    var postRequest = function (url, data) {
-        return makeRequest(url, 'POST', data);
-    };
-
-    var getRequest = function (url) {
-        return makeRequest(url, 'GET')
-    };
-
     var makeRequest = function (url, type, data) {
         var deferred = Q.defer();
 
@@ -35,8 +27,21 @@ var Requester = function (url) {
         return deferred.promise;
     }
 
+    var postRequest = function (url, data) {
+        return makeRequest(url, 'POST', data);
+    };
+
+    var putRequest = function (url, data) {
+        return makeRequest(url, 'PUT', data);
+    };
+
+    var getRequest = function (url) {
+        return makeRequest(url, 'GET')
+    };
+
     return {
         postRequest: postRequest,
-        getRequest: getRequest
+        getRequest: getRequest,
+        putRequest: putRequest
     }
 }

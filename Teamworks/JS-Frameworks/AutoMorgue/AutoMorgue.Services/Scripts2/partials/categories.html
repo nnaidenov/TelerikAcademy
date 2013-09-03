@@ -1,0 +1,10 @@
+﻿<h1>Categories</h1>
+
+<ul data-template="morgue-template" data-bind="source: categories">
+</ul>
+ 
+<script type="text/x-kendo-template" id="morgue-template">
+    <li>
+        <a  data-bind="click: location,attr: { id: Name}"><span data-bind="text: Name"></span></a>
+    </li>
+</script>

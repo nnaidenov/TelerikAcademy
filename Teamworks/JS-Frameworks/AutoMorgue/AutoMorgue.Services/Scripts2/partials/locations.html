@@ -1,0 +1,16 @@
+﻿<h1>Locations</h1>
+
+<ul data-template="morgue-template" data-bind="source: locations">
+</ul>
+ 
+<script type="text/x-kendo-template" id="morgue-template">
+    <li class="liA">
+        <a  data-bind="click: goToLocation,attr: { id: City }" class="spanA"><span data-bind="text: City"></span></a>
+    </li>
+</script>
+<div id="locationRight">
+
+</div>
+<div id="locationLeft">
+
+</div>

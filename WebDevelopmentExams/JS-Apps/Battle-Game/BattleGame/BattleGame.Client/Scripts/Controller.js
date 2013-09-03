@@ -333,13 +333,14 @@ var Controller = (function (selector) {
                     }).done();
 
                 return false;
-            })
+            });
             wrapper.on('click', '#btn-show-register', function (event) {
                 event.preventDefault();
                 event.stopPropagation();
 
                 var registerForm = UI.getRegisterForm();
                 $('#inputConteiner').html(registerForm);
+
                 return false;
             });
             wrapper.on('click', '#btn-show-login', function (event) {

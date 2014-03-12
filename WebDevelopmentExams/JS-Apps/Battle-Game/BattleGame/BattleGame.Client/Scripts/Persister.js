@@ -3,7 +3,7 @@
 /// <reference path="Requester.js" />
 
 var Persister = function () {
-    var requester = Requester('http://localhost:22954/api/');
+    var requester = Requester('http://battle-game-spa-js.apphb.com/api/');
 
     var MainPersister = Class.create({
         init: function (rootUrl) {
